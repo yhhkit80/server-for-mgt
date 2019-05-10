@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "dictCode": "623024",
+      "dictName": "迭部县",
+      "parentCode": "623000"
+    },
+    {
+      "dictCode": "623001",
+      "dictName": "合作",
+      "parentCode": "623000"
+    },
+    {
+      "dictCode": "623021",
+      "dictName": "临潭县",
+      "parentCode": "623000"
+    },
+    {
+      "dictCode": "623026",
+      "dictName": "碌曲县",
+      "parentCode": "623000"
+    },
+    {
+      "dictCode": "623025",
+      "dictName": "玛曲县",
+      "parentCode": "623000"
+    },
+    {
+      "dictCode": "623027",
+      "dictName": "夏河县",
+      "parentCode": "623000"
+    },
+    {
+      "dictCode": "623023",
+      "dictName": "舟曲县",
+      "parentCode": "623000"
+    },
+    {
+      "dictCode": "623022",
+      "dictName": "卓尼县",
+      "parentCode": "623000"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

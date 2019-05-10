@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "28e929e3159811e9ad5e00155dd6f107",
+    "orderNo": "6299999995",
+    "relativeType": "1",
+    "relativeName": "刚刚",
+    "relativeCertificateType": "1",
+    "relativeCertificateNo": "520221198802212373",
+    "relativePhone": "15677866666",
+    "relativeCompanyName": "风风光光好",
+    "relativeAnnualSalaryAfterTax": 12.000000,
+    "relativeCompanyProvince": "110000",
+    "relativeCompanyCity": "110100",
+    "relativeCompanyDistrict": "110101",
+    "relativeCompanyAddress": "哈哈哈哈",
+    "relativeShareholdingRatio": null,
+    "relativeTypeName": "父亲",
+    "relativeCertificateTypeName": "身份证",
+    "relativeCompanyProvinceName": "北京市",
+    "relativeCompanyCityName": "北京市",
+    "relativeCompanyDistrictName": "东城区",
+    "hasSaved": true,
+    "completed": true
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "entityId": "20004",
+      "name": "奥迪进口",
+      "modelDTOList": [
+        {
+          "entityId": "1994",
+          "name": "奥迪Q7"
+        },
+        {
+          "entityId": "2068",
+          "name": "奥迪TT"
+        },
+        {
+          "entityId": "2070",
+          "name": "奥迪A8L"
+        },
+        {
+          "entityId": "2071",
+          "name": "奥迪A6(进口)"
+        },
+        {
+          "entityId": "2075",
+          "name": "奥迪A4(进口)"
+        },
+        {
+          "entityId": "2347",
+          "name": "奥迪R8"
+        },
+        {
+          "entityId": "2382",
+          "name": "奥迪A5"
+        },
+        {
+          "entityId": "2632",
+          "name": "奥迪Q5(进口)"
+        },
+        {
+          "entityId": "2715",
+          "name": "奥迪A3(进口)"
+        },
+        {
+          "entityId": "2837",
+          "name": "奥迪A7"
+        },
+        {
+          "entityId": "2921",
+          "name": "奥迪A1"
+        },
+        {
+          "entityId": "3547",
+          "name": "奥迪Q3(进口)"
+        },
+        {
+          "entityId": "5205",
+          "name": "奥迪TT RS"
+        }
+      ]
+    },
+    {
+      "entityId": "10000",
+      "name": "一汽-大众奥迪",
+      "modelDTOList": [
+        {
+          "entityId": "1906",
+          "name": "奥迪A4"
+        },
+        {
+          "entityId": "2555",
+          "name": "奥迪100"
+        },
+        {
+          "entityId": "2556",
+          "name": "奥迪200"
+        },
+        {
+          "entityId": "2573",
+          "name": "奥迪A6L"
+        },
+        {
+          "entityId": "2593",
+          "name": "奥迪A4L"
+        },
+        {
+          "entityId": "2855",
+          "name": "奥迪Q5"
+        },
+        {
+          "entityId": "3395",
+          "name": "奥迪Q3"
+        },
+        {
+          "entityId": "3999",
+          "name": "奥迪A3"
+        },
+        {
+          "entityId": "5394",
+          "name": "奥迪Q5L"
+        },
+        {
+          "entityId": "5414",
+          "name": "奥迪Q2L"
+        }
+      ]
+    },
+    {
+      "entityId": "20219",
+      "name": "Audi Sport",
+      "modelDTOList": [
+        {
+          "entityId": "2582",
+          "name": "奥迪S4"
+        },
+        {
+          "entityId": "2591",
+          "name": "奥迪S8"
+        },
+        {
+          "entityId": "2623",
+          "name": "奥迪S5"
+        },
+        {
+          "entityId": "2847",
+          "name": "奥迪RS 5"
+        },
+        {
+          "entityId": "3633",
+          "name": "奥迪S7"
+        },
+        {
+          "entityId": "3634",
+          "name": "奥迪S6"
+        },
+        {
+          "entityId": "3781",
+          "name": "奥迪S3"
+        },
+        {
+          "entityId": "3824",
+          "name": "奥迪RS 6"
+        },
+        {
+          "entityId": "3829",
+          "name": "奥迪SQ5"
+        },
+        {
+          "entityId": "3841",
+          "name": "奥迪RS 7"
+        },
+        {
+          "entityId": "5206",
+          "name": "奥迪RS 3"
+        }
+      ]
+    },
+    {
+      "entityId": "20338",
+      "name": "奥迪新能源",
+      "modelDTOList": [
+        {
+          "entityId": "5146",
+          "name": "奥迪A3 插电混动"
+        },
+        {
+          "entityId": "5476",
+          "name": "奥迪Q7新能源"
+        },
+        {
+          "entityId": "5556",
+          "name": "e-tron GT"
+        }
+      ]
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

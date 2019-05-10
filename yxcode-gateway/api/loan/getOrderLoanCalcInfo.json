@@ -1,0 +1,11 @@
+{
+  "errorMessage": "",
+  "hasErrors": false,
+  "success": true,
+  "data": {
+    "downPaymentAmount": "1",
+    "downPaymentProportion": "1",
+    "finalPaymentAmount": "1",
+    "finalPaymentProportion": "1"
+  }
+}

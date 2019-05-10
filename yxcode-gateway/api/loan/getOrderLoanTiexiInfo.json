@@ -1,0 +1,11 @@
+{
+  "errorMessage": "",
+  "hasErrors": false,
+  "success": true,
+  "data": {
+    "isDiscount": "1",
+    "dealerDiscountAmount": "1",
+    "manufacturerDiscountAmount": "1",
+    "discountAmount": "100.00"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "traceId": null,
+    "name": "蔡明福",
+    "sex": "男",
+    "nation": "汉",
+    "birth": "19750323",
+    "birthFormat": null,
+    "idcard": "362133197503230034",
+    "address": "江西省赣州市兴国县潋江镇罗蔡屋27号",
+    "authority": null,
+    "validDate": "20061110-20261110",
+    "validStartDate": "2006-11-10",
+    "validEndDate": "2026-11-10",
+    "nationCode": "1"
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

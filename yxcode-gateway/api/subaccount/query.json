@@ -1,0 +1,93 @@
+{
+  "data": {
+    "current": 1,
+    "data": [
+      {
+        "name": "测试四",
+        "telephone": "18049764488",
+        "state": "0",
+        "sex": "1",
+        "account": null,
+        "subAccount": "kehuceshijianyand016"
+      },
+      {
+        "name": "测试三",
+        "telephone": "13636420209",
+        "state": "0",
+        "sex": "0",
+        "account": null,
+        "subAccount": "kehuceshijianyand015"
+      },
+      {
+        "name": "测试测一",
+        "telephone": "17621775084",
+        "state": "1",
+        "sex": "1",
+        "account": null,
+        "subAccount": "kehuceshijianyand014"
+      },
+      {
+        "name": "唐僧",
+        "telephone": "15800427777",
+        "state": "0",
+        "sex": "1",
+        "account": null,
+        "subAccount": "kehuceshijianyand013"
+      },
+      {
+        "name": "悟空",
+        "telephone": "15800425555",
+        "state": "0",
+        "sex": "0",
+        "account": null,
+        "subAccount": "kehuceshijianyand012"
+      },
+      {
+        "name": "张疯",
+        "telephone": "15800424444",
+        "state": "0",
+        "sex": "0",
+        "account": null,
+        "subAccount": "kehuceshijianyand011"
+      },
+      {
+        "name": "蔡明",
+        "telephone": "13811371197",
+        "state": "0",
+        "sex": "1",
+        "account": null,
+        "subAccount": "kehuceshijianyand010"
+      },
+      {
+        "name": "到了",
+        "telephone": "18500230202",
+        "state": "1",
+        "sex": "0",
+        "account": null,
+        "subAccount": "kehuceshijianyand009"
+      },
+      {
+        "name": "测试十222",
+        "telephone": "12222222222",
+        "state": "0",
+        "sex": "1",
+        "account": null,
+        "subAccount": "kehuceshijianyand008"
+      },
+      {
+        "name": "客户八久",
+        "telephone": "13555556534",
+        "state": "0",
+        "sex": "0",
+        "account": null,
+        "subAccount": "kehuceshijianyand007"
+      }
+    ],
+    "pageCount": 2,
+    "rowCount": 10,
+    "total": 16
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "dictCode": "620400",
+      "dictName": "白银市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "621100",
+      "dictName": "定西市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "623000",
+      "dictName": "甘南藏族自治州",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "620200",
+      "dictName": "嘉峪关市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "620300",
+      "dictName": "金昌市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "620900",
+      "dictName": "酒泉市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "620100",
+      "dictName": "兰州市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "622900",
+      "dictName": "临夏回族自治州",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "621200",
+      "dictName": "陇南市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "620800",
+      "dictName": "平凉市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "621000",
+      "dictName": "庆阳市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "620500",
+      "dictName": "天水市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "620600",
+      "dictName": "武威市",
+      "parentCode": "620000"
+    },
+    {
+      "dictCode": "620700",
+      "dictName": "张掖市",
+      "parentCode": "620000"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

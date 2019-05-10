@@ -1,0 +1,135 @@
+{
+  "data": {
+    "orderNo": "3399998991",
+    "businessTypeConfig": [
+      {
+        "name": "车抵贷",
+        "value": "0130000100000"
+      }
+    ],
+    "leaseTypeConfig": [
+      {
+        "name": "正租",
+        "value": "0130000000000"
+      },
+      {
+        "name": "回租",
+        "value": "0130000000001"
+      }
+    ],
+    "repaymentModeConfig": [
+      {
+        "name": "等额本息",
+        "value": "011200000"
+      }
+    ],
+    "repaymentFrequencyConfig": [
+      {
+        "name": "月",
+        "value": "010700000"
+      }
+    ],
+    "financePeriodConfig": [
+      {
+        "name": "3期",
+        "value": "3"
+      },
+      {
+        "name": "36期",
+        "value": "36"
+      },
+      {
+        "name": "6期",
+        "value": "6"
+      }
+    ],
+    "carTypeConfig": [
+      {
+        "name": "二手车",
+        "value": "049500001"
+      }
+    ],
+    "isResourceCarConfig": [
+      {
+        "name": "非资源车",
+        "value": "049400001"
+      }
+    ],
+    "businessType": "0130000100000",
+    "businessTypeName": "车抵贷",
+    "leaseType": "0130000000000",
+    "leaseTypeName": "正租",
+    "repaymentMode": "011200000",
+    "repaymentModeName": "等额本息",
+    "repaymentFrequency": "010700000",
+    "repaymentFrequencyName": "月",
+    "financePeriod": "3",
+    "carType": "049500001",
+    "carTypeName": "二手车",
+    "isResourceCar": "0",
+    "isResourceCarName": "否",
+    "carGuidancePrice": 162800.00,
+    "carEstimatedPrice": 160000.00,
+    "actualSellingPrice": 160000.00,
+    "purchasePurpose": "1",
+    "purchasePurposeName": "商用",
+    "carCommercialType": "1",
+    "carCommercialTypeName": "营运",
+    "isReverseMortgage": "0",
+    "isReverseMortgageName": "否",
+    "mileage": 1.00,
+    "vinNum": "WAURGB4H0DN039353",
+    "productionDate": "2019-01-09",
+    "initialDate": "2019-01-22",
+    "provinceCode": "620000",
+    "provinceCodeName": "甘",
+    "cityCode": "D",
+    "cityCodeName": "D",
+    "licenseSequence": "3223",
+    "licenseNum": "甘D3223",
+    "carEvaluationAgency": "1",
+    "carEvaluationAgencyName": null,
+    "carTransferDate": null,
+    "carInvoiceDate": null,
+    "channelOneLevel": null,
+    "hasSaved": false,
+    "customerType": "2",
+    "seatNumCode": 2,
+    "displacement": "0",
+    "hasInsurance": 1,
+    "hasGps": 1,
+    "hasTheftInsurance": 1,
+    "hasOtherFinance": 1,
+    "hasMargin": 0,
+    "hasFeeDiscount": 0,
+    "hasRateDiscount": 1,
+    "productCode": "M000110",
+    "productType": "052500004",
+    "productName": "回租二手车",
+    "productVersion": "3.0",
+    "carVesselCompulsoryInsurancePrice": 1100.00,
+    "chargingMode": "011100000",
+    "custPrimaryChannelConfig": [
+      {
+        "name": "线上",
+        "value": "030100000"
+      },
+      {
+        "name": "线下",
+        "value": "030100001"
+      }
+    ],
+    "custPrimaryChannel": "030100001",
+    "custPrimaryChannelName": "线下",
+    "predictLicenseProvinceCode": "350000",
+    "predictLicenseProvinceCodeName": "福建省",
+    "predictLicenseCityCode": "350900",
+    "predictLicenseCityCodeName": "宁德市",
+    "transferTimes": 1,
+    "compulsoryInsuranceExpiryDate": "2019-01-30",
+    "completed": true
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

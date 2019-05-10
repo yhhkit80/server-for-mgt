@@ -1,0 +1,155 @@
+{
+  "data": {
+    "orderNo": "3399998991",
+    "insuranceInfo": {
+      "isFinanceInsurance": "1",
+      "insuranceChannel": "1",
+      "insuranceChannelName": "当地",
+      "insuranceMode": "2",
+      "insuranceModeName": "分年购买",
+      "isRequire": "0",
+      "insuranceItemList": [
+        {
+          "id": null,
+          "period": "1",
+          "isRequireFinanceCode": null,
+          "financeCodeConfig": "F003,F004",
+          "financeCode": "F003",
+          "insuranceKind": "1",
+          "insurancMinPrice": 0.00,
+          "insuranceMaxPrice": 18700.00,
+          "insuranceAmount": 1.00
+        },
+        {
+          "id": null,
+          "period": "2",
+          "isRequireFinanceCode": null,
+          "financeCodeConfig": "F016,F018",
+          "financeCode": null,
+          "insuranceKind": null,
+          "insurancMinPrice": null,
+          "insuranceMaxPrice": null,
+          "insuranceAmount": null
+        },
+        {
+          "id": null,
+          "period": "3",
+          "isRequireFinanceCode": null,
+          "financeCodeConfig": "F017,F019",
+          "financeCode": null,
+          "insuranceKind": null,
+          "insurancMinPrice": null,
+          "insuranceMaxPrice": null,
+          "insuranceAmount": null
+        }
+      ]
+    },
+    "gpsInfo": {
+      "gpsSupplier": "1",
+      "gpsSupplierName": "广联",
+      "increaseFinanceType": "1",
+      "increaseFinanceTypeName": "对私",
+      "basePriceFinanceId": null,
+      "basePriceFinanceCode": "F006",
+      "isRequireBasePrice": "055300001",
+      "basePriceType": "052100001",
+      "basePriceGear": [
+        {
+          "name": "500",
+          "value": "500"
+        }
+      ],
+      "basePriceMax": null,
+      "basePriceMin": null,
+      "basePriceRatioBase": null,
+      "basePriceRatioValue": null,
+      "basePrice": 500.00,
+      "increasePriceFinanceId": null,
+      "increasePriceFinanceCode": "F007",
+      "isRequireIncreasePrice": "055300001",
+      "increasePriceType": "052100001",
+      "increasePriceGear": [
+        {
+          "name": "1000",
+          "value": "1000"
+        },
+        {
+          "name": "1500",
+          "value": "1500"
+        },
+        {
+          "name": "2000",
+          "value": "2000"
+        }
+      ],
+      "increasePriceMax": null,
+      "increasePriceMin": null,
+      "increasePriceRatioBase": null,
+      "increasePriceRatioValue": null,
+      "increasePrice": 1000.00
+    },
+    "theftInsuranceInfo": {
+      "isFinanceInsurance": "1",
+      "isRequire": null,
+      "increaseFinancePeriod": "1",
+      "increasePriceType": "1",
+      "increasePriceTypeName": "对私",
+      "basePriceFinanceId": null,
+      "basePriceFinanceCode": "F012",
+      "isRequireBasePrice": "055300001",
+      "basePrice": 150.00,
+      "increasePriceFinanceId": null,
+      "increasePriceFinanceCode": "F013",
+      "isRequireIncreasePrice": "055300001",
+      "increasePrice": 350.00,
+      "increaseMaxPrice": 350.00,
+      "increaseMinPrice": 0.00,
+      "totalPrice": 500.00
+    },
+    "otherFinanceInfo": [
+      {
+        "id": null,
+        "financeCode": "F002",
+        "financeName": "购置税",
+        "isRequire": "055300001",
+        "financeType": "052100000",
+        "financeGear": [],
+        "financePriceMax": null,
+        "financePriceMin": null,
+        "financePrice": 0.00,
+        "ratioBase": null,
+        "ratioValue": null
+      },
+      {
+        "id": null,
+        "financeCode": "F015",
+        "financeName": "上牌工本费",
+        "isRequire": "055300001",
+        "financeType": "052100000",
+        "financeGear": [],
+        "financePriceMax": null,
+        "financePriceMin": null,
+        "financePrice": 0.00,
+        "ratioBase": null,
+        "ratioValue": null
+      },
+      {
+        "id": null,
+        "financeCode": "F005",
+        "financeName": "账户管理费",
+        "isRequire": "055300001",
+        "financeType": "052100000",
+        "financeGear": [],
+        "financePriceMax": null,
+        "financePriceMin": null,
+        "financePrice": 0.00,
+        "ratioBase": null,
+        "ratioValue": null
+      }
+    ],
+    "hasSaved": false
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

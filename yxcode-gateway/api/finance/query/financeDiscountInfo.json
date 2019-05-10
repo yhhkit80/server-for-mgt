@@ -1,0 +1,49 @@
+{
+  "data": {
+    "orderNo": "6599999981",
+    "term": "36",
+    "hasRateRule": 1,
+    "hasFeeRule": null,
+    "feeDiscountInfo_null": {
+      "poundageMode": "055900001",
+      "poundageModeConfig": [
+        {
+          "name": "一次性",
+          "value": "055900000"
+        },
+        {
+          "name": "分期",
+          "value": "055900001"
+        }
+      ],
+      "poundageType": "",
+      "poundageAmount": "",
+      "poundageProportion": "",
+      "isDiscount": "",
+      "isDealerDiscount": 1,
+      "dealerDiscountAmount": "",
+      "isManufacturerDiscount": 1,
+      "manufacturerDiscountAmount": "322",
+      "discountMode": "051400000",
+      "discountTotalAmount": "",
+      "ratioBase": "actualSellingPrice",
+      "ratioValue": "2"
+    },
+    "rateDiscountInfo": {
+      "orderNo": "6599999981",
+      "isDiscount": null,
+      "discountMode": "051400001",
+      "isDealerDiscount": 1,
+      "dealerDiscountAmount": null,
+      "isManufacturerDiscount": 1,
+      "manufacturerDiscountAmount": null,
+      "discountTotalAmount": null,
+      "ratioValue": 5.00,
+      "hasSaved": false
+    },
+    "hasSaved": true
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

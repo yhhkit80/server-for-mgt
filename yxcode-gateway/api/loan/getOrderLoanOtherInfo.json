@@ -1,0 +1,39 @@
+{
+  "errorMessage": "",
+  "hasErrors": false,
+  "success": true,
+  "data": [
+    {
+      "financeCode": "f005",
+      "financeName": "GPS升级方案",
+      "financeType":"2",
+      "needed": "1",
+      "financeSelected":"500",
+      "financeSelectedDict": [{
+        "name":"100",
+        "value":"100"
+      },{
+        "name":"500",
+        "value":"500"
+      }],
+      "financeAmount": "100.00"
+    },
+    {
+      "financeCode": "f009",
+      "financeName": "帐户管理费",
+      "financeType": "1",
+      "needed": "0",
+      "financeAmount": "100.00",
+      "minAmount": "0",
+      "maxAmount": "500"
+    },
+    {
+      "financeCode": "f010",
+      "financeName": "手续费率",
+      "financeType": "3",
+      "needed": "0",
+      "financeAmount": "",
+      "ratio": "0.3"
+    }
+  ]
+}

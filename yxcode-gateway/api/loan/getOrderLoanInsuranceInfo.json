@@ -1,0 +1,122 @@
+{
+  "errorMessage": "",
+  "hasErrors": false,
+  "success": true,
+  "data": {
+    "buyInsurance": "1",
+    "insuranceChannel": "1",
+    "insuranceData": [
+      {
+        "year": "1",
+        "needed": "1",
+        "insuranceType": "1",
+        "insuranceTypeDict": [
+          {
+            "name": "商业险",
+            "value": "1"
+          }, {
+            "name": "车船/交强险",
+            "value": "2"
+          }, {
+            "name": "车船/交强/商业",
+            "value": "3"
+          }
+        ],
+        "insuranceKind": [
+          "1"
+        ],
+        "insuranceKindDict": [
+          {
+            "name": "商业盗抢险",
+            "value": "1",
+            "pid": "1"
+          }, {
+            "name": "车辆损失险",
+            "value": "2",
+            "pid": "2"
+          }, {
+            "name": "车上人员责任责任险(司机)",
+            "value": "3",
+            "pid": "3"
+          }, {
+            "name": "第三者责任险",
+            "value": "4",
+            "pid": "3"
+          }, {
+            "name": "自燃损失险",
+            "value": "5",
+            "pid": "2"
+          }, {
+            "name": "车辆停驶代步车费用险",
+            "value": "6",
+            "pid": "2"
+          }, {
+            "name": "车身划痕险",
+            "value": "7",
+            "pid": "2"
+          }, {
+            "name": "指定专修险",
+            "value": "8",
+            "pid": "2"
+          }
+        ],
+        "insuranceAmount": "100.00"
+      },
+    {
+        "year": "2",
+        "insuranceType": "1",
+        "insuranceTypeDict": [
+          {
+            "name": "商业险",
+            "value": "1"
+          }, {
+            "name": "车船/交强险",
+            "value": "2"
+          }, {
+            "name": "车船/交强/商业",
+            "value": "3"
+          }
+        ],
+        "insuranceKind": [
+          "2"
+        ],
+        "insuranceKindDict": [
+          {
+            "name": "商业盗抢险",
+            "value": "1",
+            "pid": "1"
+          }, {
+            "name": "车辆损失险",
+            "value": "2",
+            "pid": "2"
+          }, {
+            "name": "车上人员责任责任险(司机)",
+            "value": "3",
+            "pid": "3"
+          }, {
+            "name": "第三者责任险",
+            "value": "4",
+            "pid": "3"
+          }, {
+            "name": "自燃损失险",
+            "value": "5",
+            "pid": "2"
+          }, {
+            "name": "车辆停驶代步车费用险",
+            "value": "6",
+            "pid": "2"
+          }, {
+            "name": "车身划痕险",
+            "value": "7",
+            "pid": "2"
+          }, {
+            "name": "指定专修险",
+            "value": "8",
+            "pid": "2"
+          }
+        ],
+        "insuranceAmount": "200.00"
+      }
+    ]
+  }
+}

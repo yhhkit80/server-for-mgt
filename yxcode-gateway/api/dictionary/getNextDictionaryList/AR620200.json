@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "dictCode": "county_620200",
+      "dictName": "嘉峪关市",
+      "parentCode": "620200"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

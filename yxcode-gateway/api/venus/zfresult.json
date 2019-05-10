@@ -1,0 +1,173 @@
+{
+  "content": "Venus部分准入结果",
+  "createDate": "2019/01/12 19:07:04",
+  "extendValue": {
+    "timeStamp": "2019-01-12 11:07:43.118",
+    "messageBody": {
+      "adaptInfo": {
+        "shuntSeq": "kehuccwshanghai:60636a226c3c4483ac88e3a367ef4546",
+        "applyNo": "6299999995",
+        "productNo": "M000064"
+      },
+      "legalFieldList": [
+        {
+          "fieldName": "座位数",
+          "fieldCode": "izws"
+        },
+        {
+          "fieldName": "提报日期",
+          "fieldCode": "atbrq"
+        },
+        {
+          "fieldName": "购车目的",
+          "fieldCode": "agcmd"
+        },
+        {
+          "fieldName": "车辆用途",
+          "fieldCode": "aclyt"
+        },
+        {
+          "fieldName": "客户类型",
+          "fieldCode": "custType"
+        },
+        {
+          "fieldName": "官方指导价",
+          "fieldCode": "fzdj"
+        },
+        {
+          "fieldName": "二手车产品评估机构",
+          "fieldCode": "oldcarcompany"
+        }
+      ],
+      "adaptCapitalList": [
+        {
+          "capitalName": "民生银行",
+          "matchFailRecordList": [
+            {
+              "ruleMessage": "座位数≤7",
+              "fieldValues": "{\"座位数\":0}",
+              "ruleId": "100007"
+            },
+            {
+              "ruleMessage": "购车目的不能是商用",
+              "fieldValues": "{\"购车目的\":\"\"}",
+              "ruleId": "100008"
+            }
+          ],
+          "capitalCode": "CMBC",
+          "successFlag": false
+        },
+        {
+          "capitalName": "微众银行",
+          "matchFailRecordList": [
+            {
+              "ruleMessage": "座位数≤9",
+              "fieldValues": "{\"座位数\":0}",
+              "ruleId": "100036"
+            },
+            {
+              "ruleMessage": "购车目的不能是商用",
+              "fieldValues": "{\"购车目的\":\"\"}",
+              "ruleId": "100008"
+            }
+          ],
+          "capitalCode": "WeBank",
+          "successFlag": false
+        },
+        {
+          "capitalName": "工商银行",
+          "matchFailRecordList": [
+            {
+              "ruleMessage": "车辆用途非营运",
+              "fieldValues": "{\"车辆用途\":\"\"}",
+              "ruleId": "100082"
+            }
+          ],
+          "capitalCode": "ICBC",
+          "successFlag": false
+        },
+        {
+          "capitalName": "云南信托",
+          "matchFailRecordList": [
+            {
+              "ruleMessage": "购车目的不能是商用",
+              "fieldValues": "{\"购车目的\":\"\"}",
+              "ruleId": "100008"
+            }
+          ],
+          "capitalCode": "YNTRUST",
+          "successFlag": false
+        },
+        {
+          "capitalName": "亿联银行",
+          "matchFailRecordList": [
+            {
+              "ruleMessage": "座位数：≤7座",
+              "fieldValues": "{\"座位数\":0}",
+              "ruleId": "300005"
+            },
+            {
+              "ruleMessage": "只支持个人客户",
+              "fieldValues": "{\"客户类型\":\"2\"}",
+              "ruleId": "300009"
+            }
+          ],
+          "capitalCode": "YILLION",
+          "successFlag": false
+        },
+        {
+          "capitalName": "包商银行",
+          "matchFailRecordList": [
+            {
+              "ruleMessage": "座位数≤7",
+              "fieldValues": "{\"座位数\":0}",
+              "ruleId": "100007"
+            },
+            {
+              "ruleMessage": "只支持个人客户",
+              "fieldValues": "{\"客户类型\":\"2\"}",
+              "ruleId": "300009"
+            },
+            {
+              "ruleMessage": "购车目的不能是商用",
+              "fieldValues": "{\"购车目的\":\"\"}",
+              "ruleId": "350010"
+            },
+            {
+              "ruleMessage": "二手车评估机构只支持穗圣/精真估",
+              "fieldValues": "{\"二手车产品评估机构\":\"\"}",
+              "ruleId": "350007"
+            }
+          ],
+          "capitalCode": "BSBank",
+          "successFlag": false
+        },
+        {
+          "capitalName": "天津银行",
+          "matchFailRecordList": [
+            {
+              "ruleMessage": "车辆用途非营运",
+              "fieldValues": "{\"车辆用途\":\"\"}",
+              "ruleId": "100082"
+            },
+            {
+              "ruleMessage": "座位数≤9",
+              "fieldValues": "{\"座位数\":0}",
+              "ruleId": "100036"
+            }
+          ],
+          "capitalCode": "TJBank",
+          "successFlag": false
+        }
+      ]
+    },
+    "applyNo": "6299999995",
+    "link": "ADAPT_SHUNT"
+  },
+  "id": "1",
+  "messageType": "VENUS_PIECE_DISCOVER",
+  "receiver": "kehuccwshanghai",
+  "sendDate": "2019/01/12 19:07:04",
+  "sender": "yxcode-polaris",
+  "temporary": true
+}

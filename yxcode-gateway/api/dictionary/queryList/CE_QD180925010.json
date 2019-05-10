@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "dictCode": "0",
+      "dictName": "0-渠道自评"
+    },
+    {
+      "dictCode": "1",
+      "dictName": "1-穗圣"
+    },
+    {
+      "dictCode": "2",
+      "dictName": "2-精真估"
+    },
+    {
+      "dictCode": "6",
+      "dictName": "6-免评估"
+    },
+    {
+      "dictCode": "8",
+      "dictName": "8-百信"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

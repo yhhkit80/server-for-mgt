@@ -1,0 +1,86 @@
+{
+  "data": {
+    "pageCount": 4,
+    "pageIndex": 0,
+    "pageSize": 10,
+    "resultCount": 32,
+    "rowCount": 10,
+    "start": 0,
+    "total": 32,
+    "data": [
+      {
+        "productCode": "M000061",
+        "productName": "放鑫融高息产品B",
+        "version": "4.0",
+        "rateDesc": "25.91-26.56",
+        "loanPeriodDesc": "24-36"
+      },
+      {
+        "productCode": "M000058",
+        "productName": "zychen产品01",
+        "version": "6.0",
+        "rateDesc": null,
+        "loanPeriodDesc": "36"
+      },
+      {
+        "productCode": "M000064",
+        "productName": "测试产品001",
+        "version": "6.0",
+        "rateDesc": "12.88",
+        "loanPeriodDesc": "12-36"
+      },
+      {
+        "productCode": "M000065",
+        "productName": "测试产品003-风控数据勿动",
+        "version": "5.0",
+        "rateDesc": "11.88",
+        "loanPeriodDesc": "3-60"
+      },
+      {
+        "productCode": "M000066",
+        "productName": "测试产品004，车抵贷，费率，二手车-风控数据勿动",
+        "version": "9.0",
+        "rateDesc": null,
+        "loanPeriodDesc": "12-36"
+      },
+      {
+        "productCode": "M000067",
+        "productName": "测试产品002-风控数据勿动",
+        "version": "10.0",
+        "rateDesc": "12.88",
+        "loanPeriodDesc": "12-36"
+      },
+      {
+        "productCode": "M000068",
+        "productName": "alix产品一勿动",
+        "version": "33.0",
+        "rateDesc": "0-90.00",
+        "loanPeriodDesc": "12-60"
+      },
+      {
+        "productCode": "M000069",
+        "productName": "Alix产品二勿动",
+        "version": "18.0",
+        "rateDesc": null,
+        "loanPeriodDesc": "3-36"
+      },
+      {
+        "productCode": "M000070",
+        "productName": "息费测试数据啊",
+        "version": "2.0",
+        "rateDesc": "0.00-100.00",
+        "loanPeriodDesc": "6-36"
+      },
+      {
+        "productCode": "M000072",
+        "productName": "暖鑫融二手车豪华淘车B",
+        "version": "5.0",
+        "rateDesc": "10.88",
+        "loanPeriodDesc": "6-36"
+      }
+    ]
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "dictCode": "5",
+      "dictName": "四维"
+    },
+    {
+      "dictCode": "1",
+      "dictName": "广联"
+    },
+    {
+      "dictCode": "6",
+      "dictName": "车晓"
+    },
+    {
+      "dictCode": "3",
+      "dictName": "中瑞"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

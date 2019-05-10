@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "dictCode": "110114",
+      "dictName": "昌平区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110105",
+      "dictName": "朝阳区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110115",
+      "dictName": "大兴区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110101",
+      "dictName": "东城区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110111",
+      "dictName": "房山区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110106",
+      "dictName": "丰台区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110108",
+      "dictName": "海淀区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110116",
+      "dictName": "怀柔区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110109",
+      "dictName": "门头沟区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110228",
+      "dictName": "密云县",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110117",
+      "dictName": "平谷区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110107",
+      "dictName": "石景山区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110113",
+      "dictName": "顺义区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110112",
+      "dictName": "通州",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110102",
+      "dictName": "西城区",
+      "parentCode": "110100"
+    },
+    {
+      "dictCode": "110229",
+      "dictName": "延庆县",
+      "parentCode": "110100"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

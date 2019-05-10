@@ -1,0 +1,78 @@
+{
+  "data": {
+    "businessType": "051000001",
+    "leaseType": "052400001",
+    "repaymentMode": "050700000",
+    "repaymentFrequency": "055000000",
+    "financePeriod": "050800005",
+    "purchasePurpose": "2",
+    "carCommercialType": "non_operation",
+    "carGuidancePrice": "12",
+    "actualSellingPrice": "480000",
+    "isResourceCar": "1",
+    "carType": "050900001",
+    "mileage": "23",
+    "carEstimatedPrice": "456",
+    "vinNum": "SFAFSD55554",
+    "productionDate": "2018-09-29T16:00:00.000Z",
+    "initialDate": "2018-10-31T16:00:00.000Z",
+    "provinceCode": "anhui",
+    "cityCode": "皖B",
+    "licenseSequence": "45685",
+    "licenseNum": "沪A45685",
+    "carEvaluationAgency": "2",
+    "isReverseMortgage": "1",
+    "carInvoiceDate": "2018-11-03",
+    "carTransferDate": "2018-11-13T16:00:00.000Z",
+    "businessTypeConfig": [
+      {
+        "key": "value"
+      }
+    ],
+    "leaseTypeConfig": [
+      {
+        "key": "value"
+      }
+    ],
+    "repaymentModeConfig": [
+      {
+        "key": "value"
+      }
+    ],
+    "repaymentFrequencyConfig": [
+      {
+        "key": "value"
+      }
+    ],
+    "financePeriodConfig": [
+      {
+        "key": "value"
+      }
+    ],
+    "isResourceCarConfig": [
+      {
+        "key": "value"
+      }
+    ],
+    "carTypeConfig": [
+      {
+        "key": "value"
+      }
+    ],
+    "orderNo": "",
+    "customerType": "",
+    "channelOneLevel": "",
+    "displacement": "",
+    "hasDiscount": 1,
+    "hasGps": 1,
+    "hasInsurance": 1,
+    "hasMargin": 1,
+    "hasOtherFinance": 1,
+    "hasSaved": 1,
+    "hasTheftInsurance": 1,
+    "seatNumCode": 1
+  },
+  "errorCode": "",
+  "errorMessage": "",
+  "success": true
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "orderNo": null,
+    "insuranceInfo": {
+      "isFinanceInsurance": null,
+      "insuranceChannel": null,
+      "insuranceMode": null,
+      "isRequire": "1",
+      "insuranceItemList": [
+        {
+          "id": null,
+          "period": "1",
+          "isRequireFinanceCode": "F003",
+          "financeCodeConfig": "F003,F004",
+          "financeCode": null,
+          "insuranceKind": null,
+          "insurancMinPrice": null,
+          "insuranceMaxPrice": null,
+          "insuranceAmount": null
+        },
+        {
+          "id": null,
+          "period": "2",
+          "isRequireFinanceCode": null,
+          "financeCodeConfig": "F016,F018",
+          "financeCode": null,
+          "insuranceKind": null,
+          "insurancMinPrice": null,
+          "insuranceMaxPrice": null,
+          "insuranceAmount": null
+        },
+        {
+          "id": null,
+          "period": "3",
+          "isRequireFinanceCode": null,
+          "financeCodeConfig": "F017,F019",
+          "financeCode": null,
+          "insuranceKind": null,
+          "insurancMinPrice": null,
+          "insuranceMaxPrice": null,
+          "insuranceAmount": null
+        }
+      ]
+    },
+    "gpsInfo": {
+      "gpsSupplier": null,
+      "increaseFinanceType": null,
+      "basePriceFinanceId": null,
+      "basePriceFinanceCode": "F006",
+      "isRequireBasePrice": "055300001",
+      "basePriceType": "052100001",
+      "basePriceGear": [
+        {
+          "name": "600",
+          "value": "600"
+        },
+        {
+          "name": "1000",
+          "value": "1000"
+        }
+      ],
+      "basePriceMax": null,
+      "basePriceMin": null,
+      "basePriceRatioBase": null,
+      "basePriceRatioValue": null,
+      "basePrice": null,
+      "increasePriceFinanceId": null,
+      "increasePriceFinanceCode": "F007",
+      "isRequireIncreasePrice": "055300001",
+      "increasePriceType": "052100001",
+      "increasePriceGear": [
+        {
+          "name": "300",
+          "value": "300"
+        },
+        {
+          "name": "600",
+          "value": "600"
+        }
+      ],
+      "increasePriceMax": null,
+      "increasePriceMin": null,
+      "increasePriceRatioBase": null,
+      "increasePriceRatioValue": null,
+      "increasePrice": null
+    },
+    "theftInsuranceInfo": {
+      "isFinanceInsurance": null,
+      "isRequire": "0",
+      "increaseFinancePeriod": null,
+      "increasePriceType": null,
+      "basePriceFinanceId": null,
+      "basePriceFinanceCode": "F012",
+      "isRequireBasePrice": "055300001",
+      "basePrice": null,
+      "increasePriceFinanceId": null,
+      "increasePriceFinanceCode": "F013",
+      "isRequireIncreasePrice": "055300001",
+      "increasePrice": null,
+      "increaseMaxPrice": null,
+      "increaseMinPrice": null,
+      "totalPrice": null
+    },
+    "otherFinanceInfo": [
+      {
+        "id": null,
+        "financeCode": "F008",
+        "financeName": "gps升级方案基础价",
+        "isRequire": "055300001",
+        "financeType": "052100000",
+        "financeGear": [],
+        "financePriceMax": null,
+        "financePriceMin": null,
+        "financePrice": null,
+        "ratioBase": null,
+        "ratioValue": null
+      },
+      {
+        "id": null,
+        "financeCode": "F009",
+        "financeName": "gps升级方案加价",
+        "isRequire": "055300001",
+        "financeType": "052100000",
+        "financeGear": [],
+        "financePriceMax": null,
+        "financePriceMin": null,
+        "financePrice": null,
+        "ratioBase": null,
+        "ratioValue": null
+      },
+      {
+        "id": null,
+        "financeCode": "F002",
+        "financeName": "购置税",
+        "isRequire": "055300001",
+        "financeType": "052100000",
+        "financeGear": [],
+        "financePriceMax": null,
+        "financePriceMin": null,
+        "financePrice": null,
+        "ratioBase": null,
+        "ratioValue": null
+      },
+      {
+        "id": null,
+        "financeCode": "F015",
+        "financeName": "上牌工本费",
+        "isRequire": "055300001",
+        "financeType": "052100000",
+        "financeGear": [],
+        "financePriceMax": null,
+        "financePriceMin": null,
+        "financePrice": null,
+        "ratioBase": null,
+        "ratioValue": null
+      },
+      {
+        "id": null,
+        "financeCode": "F005",
+        "financeName": "账户管理费",
+        "isRequire": "055300001",
+        "financeType": "052100000",
+        "financeGear": [],
+        "financePriceMax": null,
+        "financePriceMin": null,
+        "financePrice": null,
+        "ratioBase": null,
+        "ratioValue": null
+      }
+    ],
+    "hasSaved": false
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

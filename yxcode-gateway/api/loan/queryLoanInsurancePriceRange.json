@@ -1,0 +1,16 @@
+{
+  "errorMessage": "",
+  "hasErrors": false,
+  "success": true,
+  "data": {
+    "buyInsurance": "1",
+    "insuranceChannel": "1",
+    "insuranceData": [
+      {
+        "insuranceType": "1",
+        "insuranceKind": ["1"],
+        "insuranceAmount": "100.00"
+      }
+    ]
+  }
+}

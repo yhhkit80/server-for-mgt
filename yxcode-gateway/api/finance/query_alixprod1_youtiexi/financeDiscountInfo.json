@@ -1,0 +1,25 @@
+{
+  "data": {
+    "orderNo": "2599998996",
+    "term": "36",
+    "hasRateRule": 1,
+    "hasFeeRule": null,
+    "feeDiscountInfo": null,
+    "rateDiscountInfo": {
+      "orderNo": "2599998996",
+      "isDiscount": null,
+      "discountMode": "051400000",
+      "isDealerDiscount": 1,
+      "dealerDiscountAmount": null,
+      "isManufacturerDiscount": 1,
+      "manufacturerDiscountAmount": 5000.00,
+      "discountTotalAmount": null,
+      "ratioValue": 5000.00,
+      "hasSaved": false
+    },
+    "hasSaved": false
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

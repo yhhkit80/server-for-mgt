@@ -1,0 +1,14 @@
+{
+  "data": {
+    "orderNo": "2599998996",
+    "marginType": "054000001",
+    "marginAmount": null,
+    "marginProportion": 10.00,
+    "marginIsOffset": 1,
+    "ratioBase": null,
+    "hasSaved": false
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

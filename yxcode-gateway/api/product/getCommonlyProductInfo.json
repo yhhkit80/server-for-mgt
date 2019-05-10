@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "productCode": "M000061",
+      "productName": "放鑫融高息产品B",
+      "version": "4.0",
+      "rateDesc": "25.91-26.56",
+      "loanPeriodDesc": "24-36"
+    },
+    {
+      "productCode": "M000077",
+      "productName": "王雷测试",
+      "version": "9.0",
+      "rateDesc": "12.00",
+      "loanPeriodDesc": "12"
+    },
+    {
+      "productCode": "M000064",
+      "productName": "测试产品001",
+      "version": "6.0",
+      "rateDesc": "12.88",
+      "loanPeriodDesc": "12-36"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

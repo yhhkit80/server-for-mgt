@@ -1,0 +1,11 @@
+{
+  "errorMessage": "",
+  "hasErrors": false,
+  "success": true,
+  "data": {
+    "custPrimaryChannel": "1",
+    "gpsSupplier": "1",
+    "gpsBasePrice": "1",
+    "gpsIncreasePrice": "1"
+  }
+}

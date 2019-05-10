@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "dictCode": "340303",
+      "dictName": "蚌山区",
+      "parentCode": "340300"
+    },
+    {
+      "dictCode": "340323",
+      "dictName": "固镇县",
+      "parentCode": "340300"
+    },
+    {
+      "dictCode": "340321",
+      "dictName": "怀远县",
+      "parentCode": "340300"
+    },
+    {
+      "dictCode": "340311",
+      "dictName": "淮上区",
+      "parentCode": "340300"
+    },
+    {
+      "dictCode": "340302",
+      "dictName": "龙子湖区",
+      "parentCode": "340300"
+    },
+    {
+      "dictCode": "340322",
+      "dictName": "五河县",
+      "parentCode": "340300"
+    },
+    {
+      "dictCode": "340304",
+      "dictName": "禹会区",
+      "parentCode": "340300"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

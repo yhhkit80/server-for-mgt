@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "dictCode": "a0119",
+      "dictName": "其他谷物种植",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0123",
+      "dictName": "薯类种植",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0134",
+      "dictName": "烟草种植",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0142",
+      "dictName": "食用菌种植",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0149",
+      "dictName": "其他园艺作物种植",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0159",
+      "dictName": "其他水果种植",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0169",
+      "dictName": "茶及其他饮料作物种植",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0170",
+      "dictName": "中药材种植",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0190",
+      "dictName": "其他农业",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0212",
+      "dictName": "林木育苗",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0230",
+      "dictName": "森林经营和管护",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0242",
+      "dictName": "竹材采运",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0319",
+      "dictName": "其他牲畜饲养",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0329",
+      "dictName": "其他家禽饲养",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0390",
+      "dictName": "其他畜牧业",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0412",
+      "dictName": "内陆养殖",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0422",
+      "dictName": "内陆捕捞",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0519",
+      "dictName": "其他农业服务",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0529",
+      "dictName": "其他林业服务",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0530",
+      "dictName": "畜牧服务业",
+      "parentCode": "a"
+    },
+    {
+      "dictCode": "a0540",
+      "dictName": "渔业服务业",
+      "parentCode": "a"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

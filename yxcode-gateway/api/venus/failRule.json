@@ -1,0 +1,18 @@
+{
+  "data": {
+    "accessTime": "2019-01-20 18:31:45",
+    "affiliatedCapital": "WeBank,CMBC",
+    "assesResult": "rule_no_match",
+    "batchId": "2c9380d0686059e501686ad0f1972173",
+    "matchResultDetailList": [
+      {
+        "capitalCode": "WeBank",
+        "capitalName": "微众银行",
+        "successFlag": true
+      }
+    ]
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

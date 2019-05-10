@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "channelCode": "QD180913001",
+      "channelId": "0000000065cd9a820165d0b2ac7f004a",
+      "channelName": "北京一店-体验店",
+      "mainName": "苏州韵诚汽车服务有限公司",
+      "reportSubjectArr": "03001,05001",
+      "reportSubjectList": [
+        {
+          "reportSubject": "03001",
+          "reportSubjectName": "上海易鑫"
+        },
+        {
+          "reportSubject": "05001",
+          "reportSubjectName": "天津易鑫"
+        }
+      ],
+      "shopId": "0000000065cd9a2c0165d0b259ed0072",
+      "shopName": "北京一店"
+    },
+    {
+      "channelCode": "QD1045681",
+      "channelId": "0000000065cd9a820165d0b2ac7f00bb",
+      "channelName": "上海一店-体验店",
+      "mainName": "上海不是汽车服务有限公司",
+      "reportSubjectArr": "03002,05002",
+      "reportSubjectList": [
+        {
+          "reportSubject": "03002",
+          "reportSubjectName": "上海22易鑫"
+        },
+        {
+          "reportSubject": "05002",
+          "reportSubjectName": "天津33易鑫"
+        }
+      ],
+      "shopId": "0000000065cd9a2c0165d0b259ed0033",
+      "shopName": "上海一店"
+    }
+  ],
+  "success": true
+}

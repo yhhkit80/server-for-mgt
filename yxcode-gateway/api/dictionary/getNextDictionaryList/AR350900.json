@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "dictCode": "350981",
+      "dictName": "福安",
+      "parentCode": "350900"
+    },
+    {
+      "dictCode": "350982",
+      "dictName": "福鼎",
+      "parentCode": "350900"
+    },
+    {
+      "dictCode": "350922",
+      "dictName": "古田县",
+      "parentCode": "350900"
+    },
+    {
+      "dictCode": "350902",
+      "dictName": "蕉城区",
+      "parentCode": "350900"
+    },
+    {
+      "dictCode": "350923",
+      "dictName": "屏南县",
+      "parentCode": "350900"
+    },
+    {
+      "dictCode": "350924",
+      "dictName": "寿宁县",
+      "parentCode": "350900"
+    },
+    {
+      "dictCode": "350921",
+      "dictName": "霞浦县",
+      "parentCode": "350900"
+    },
+    {
+      "dictCode": "350926",
+      "dictName": "柘荣县",
+      "parentCode": "350900"
+    },
+    {
+      "dictCode": "350925",
+      "dictName": "周宁县",
+      "parentCode": "350900"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

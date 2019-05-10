@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "dictCode": "350100",
+      "dictName": "福州市",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "350800",
+      "dictName": "龙岩市",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "350700",
+      "dictName": "南平市",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "350900",
+      "dictName": "宁德市",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "350300",
+      "dictName": "莆田市",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "350500",
+      "dictName": "泉州市",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "350400",
+      "dictName": "三明市",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "2146",
+      "dictName": "省直系统",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "350200",
+      "dictName": "厦门市",
+      "parentCode": "350000"
+    },
+    {
+      "dictCode": "350600",
+      "dictName": "漳州市",
+      "parentCode": "350000"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

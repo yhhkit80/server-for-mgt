@@ -1,0 +1,17 @@
+{
+  "data": {
+    "id": null,
+    "orderNo": "6599999981",
+    "actualSellingPrice": null,
+    "downPaymentAmount": 1000.00,
+    "downPaymentProportion": 20.00,
+    "finalPaymentType": "054800000",
+    "finalPaymentAmount": 0.00,
+    "finalPaymentProportion": 0.00,
+    "financeCalculationTableList": null,
+    "hasSaved": true
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

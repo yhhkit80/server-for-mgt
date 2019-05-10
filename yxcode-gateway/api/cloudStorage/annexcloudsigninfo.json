@@ -1,0 +1,19 @@
+{
+  "data": {
+    "respCode": "0000",
+    "respMsg": "请求成功",
+    "downloadHostName": "http://dev-hydra.yxqiche.com",
+    "picHostName": "http://devpic-hydra.yxqiche.com",
+    "tencentCloudHostName": "http://dev-hydra-1255510356.cos.ap-beijing.myqcloud.com",
+    "region": "ap-beijing",
+    "bucketName": "dev-hydra-1255510356",
+    "remotePath": "/credit/2019/01/12/2019011217315000996770/",
+    "tmpSecretId": "AKID8Lh7wMwt0JI0hc04DlCK4rxEk5feXfPZ",
+    "tmpSecretKey": "bngI2vK4eyBAj03X7WuDDhUm55U1XR4k",
+    "sessionToken": "61216137f8927dc42e8eed99855cbc490fcb384530001",
+    "expiredTime": "1547289124"
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

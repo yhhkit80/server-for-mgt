@@ -1,0 +1,28 @@
+{
+  "data": {
+    "respCode": "0000",
+    "respMsg": "请求成功",
+    "items": [
+      {
+        "itemID": "applicantOrderIdPositive",
+        "title": "申请人身份证正面",
+        "multiple": "false",
+        "files": [
+          {
+            "name": "蔡明福正面.jpg",
+            "userID": "kehuccwshanghai",
+            "userName": "车车网上海",
+            "remoteFileUrl": "/credit/2019/01/12/2019011219443200996762/54ae59ca9e6d75ac58ddcd874d21b3a439f11888cea30a0b99b62134f8b2c877.jpg",
+            "downloadUrl": "http://dev-hydra-1255510356.cos.ap-beijing.myqcloud.com/credit/2019/01/12/2019011219443200996762/54ae59ca9e6d75ac58ddcd874d21b3a439f11888cea30a0b99b62134f8b2c877.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDeDct0xNQwITDoGFnoikmOuIl6IJXtrln%26q-sign-time%3D1547293469%3B1547297069%26q-key-time%3D1547293469%3B1547297069%26q-header-list%3D%26q-url-param-list%3Dresponse-cache-control%3Bresponse-content-disposition%3Bresponse-content-language%3Bresponse-content-type%3Bresponse-expires%26q-signature%3Db192b28a8b07fc7689f57dbb44eacb6fdce814d1&response-cache-control=no-cache&response-content-disposition=filename%3D%22%E8%94%A1%E6%98%8E%E7%A6%8F%E6%AD%A3%E9%9D%A2.jpg%22&response-content-language=zh-CN&response-expires=Sun%2C%2013%20Jan%202019%2011%3A44%3A29%20GMT&response-content-type=application%2Foctet-stream",
+            "thumbnailUrl": "http://devpic-hydra.yxqiche.com/credit/2019/01/12/2019011219443200996762/54ae59ca9e6d75ac58ddcd874d21b3a439f11888cea30a0b99b62134f8b2c877.jpg/style?sign=362lUmAJ6+b6okbapEOe6sPCvmFhPTEyNTU1MTAzNTYmaz1BS0lEZURjdDB4TlF3SVREb0dGbm9pa21PdUlsNklKWHRybG4mZT0xNTQ3Mjk3MDY5JnQ9MTU0NzI5MzQ2OSZyPTg1ODg2NzE3JmY9LzEyNTU1MTAzNTYvZGV2LWh5ZHJhLTEyNTU1MTAzNTYvY3JlZGl0LzIwMTkvMDEvMTIvMjAxOTAxMTIxOTQ0MzIwMDk5Njc2Mi81NGFlNTljYTllNmQ3NWFjNThkZGNkODc0ZDIxYjNhNDM5ZjExODg4Y2VhMzBhMGI5OWI2MjEzNGY4YjJjODc3LmpwZyZiPWRldi1oeWRyYS0xMjU1NTEwMzU2",
+            "previewUrl": "http://dev-hydra-1255510356.cos.ap-beijing.myqcloud.com/credit/2019/01/12/2019011219443200996762/54ae59ca9e6d75ac58ddcd874d21b3a439f11888cea30a0b99b62134f8b2c877.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDeDct0xNQwITDoGFnoikmOuIl6IJXtrln%26q-sign-time%3D1547293469%3B1547297069%26q-key-time%3D1547293469%3B1547297069%26q-header-list%3D%26q-url-param-list%3Dresponse-cache-control%3Bresponse-content-disposition%3Bresponse-content-language%3Bresponse-expires%26q-signature%3Dcf375ecceff37bfe8a695fdedf542e342c32072c&response-cache-control=no-cache&response-content-disposition=filename%3D%22%E8%94%A1%E6%98%8E%E7%A6%8F%E6%AD%A3%E9%9D%A2.jpg%22&response-content-language=zh-CN&response-expires=Sun%2C%2013%20Jan%202019%2011%3A44%3A29%20GMT",
+            "fileServerFileId": ""
+          }
+        ]
+      }
+    ]
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

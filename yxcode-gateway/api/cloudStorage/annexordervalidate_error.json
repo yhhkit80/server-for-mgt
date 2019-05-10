@@ -1,0 +1,26 @@
+{
+  "data": {
+    "respCode": "0000",
+    "respMsg": "请求成功",
+    "orderValidate": false,
+    "items": {
+      "guarantorIDReverse": "担保人身份证反面",
+      "guarantorAuthorizationPhoto": "担保人授权书面签照",
+      "applicantAssessment": "二手车评估报告（自评）",
+      "applicantBusinessLicence": "企业营业执照",
+      "applicantAssessmentXT": "二手车评估报告（车e估、精真估）",
+      "applicantCreditReport": "人行征信报告",
+      "guarantorCreditAuthorization": "征信授权书",
+      "guarantorApply": "担保人申请表",
+      "applicantAssessmentInfo": "二手车资料",
+      "vehicleRegistrationOtherPages": "车辆登记证(其他页)",
+      "applicantOrderIdCustApply": "客户申请表",
+      "guarantorIDPositive": "担保人身份证正面",
+      "guarantorApplySignPhoto": "申请表面签照",
+      "applicantCreditAuthorization": "人行征信授权书"
+    }
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

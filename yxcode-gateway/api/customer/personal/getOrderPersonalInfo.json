@@ -1,0 +1,45 @@
+{
+	"errorMessage": "",
+	"errorCode": "",
+	"success": true,
+	"data": {
+		"personal": {
+			"id": "1022",
+			"orderNo": "10000029",
+			"custName": "毛豆豆",
+			"custGender": "F",
+			"custPhone": "15201758781",
+			"custCertificateType": "1",
+			"custCertificateNo": "515745665225885",
+			"marriage": "1",
+			"custEducation": "1",
+			"custDegree": "2",
+			"hasEstate": "1",
+			"livingStatus": "1",
+			"industry": "1",
+
+			"companyName": "上海易鑫",
+			"custProfession": "1",
+			"custPosition": "1",
+			"custTitle": "1",
+
+			"companyNature": "11",
+
+			"annualSalaryAfterTax": "125.00",
+			"companyProvince": "510000",
+			"companyCity": "511800",
+			"companyDistrict": "511826",
+			"companyAddress": "陆家嘴世纪金融广场",
+			"currentResidenceProvince": "510000",
+			"currentResidenceCity": "511800",
+			"currentResidenceDistrict": "511826",
+			"currentResidenceAddress": "陆家嘴世纪金融广场",
+			"currentResidenceYears": "陆家嘴世纪金融广场",
+			"censusRegisterProvince": "510000",
+			"censusRegisterCity": "511800",
+			"censusRegisterDistrict": "511826",
+			"censusRegisterAddress": "陆家嘴世纪金融广场"
+		},
+		"hasSaved": false
+	}
+}

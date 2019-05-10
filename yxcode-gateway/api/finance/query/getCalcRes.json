@@ -1,0 +1,47 @@
+{
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true,
+  "data": [
+    {
+      "fundCode": "zf1",
+      "fundName": "自营",
+      "custFinanceAmount": 641131.46,
+      "riskControlFinanceAmount": 9916.66,
+      "riskFinanceAmount": 10750.68,
+      "custInterestRate": "80.00",
+      "custRate": "28.00",
+      "monthlyAmount": 9715.87,
+      "custSettlementInterestRate": 0,
+      "custSettlementRate": 0,
+      "loanAmount": 0
+    },
+    {
+      "fundCode": "zf2",
+      "fundName": "民生银行",
+      "custFinanceAmount": 879475.87,
+      "riskControlFinanceAmount": 9212.73,
+      "riskFinanceAmount": 69755.62,
+      "custInterestRate": "44.00",
+      "custRate": "26.00",
+      "monthlyAmount": 1589.42,
+      "custSettlementInterestRate": 0,
+      "custSettlementRate": 0,
+      "loanAmount": 0
+    },
+    {
+      "fundCode": "zf3",
+      "fundName": "微众银行",
+      "custFinanceAmount": 466196.15,
+      "riskControlFinanceAmount": 6300.23,
+      "riskFinanceAmount": 79006.34,
+      "custInterestRate": "78.00",
+      "custRate": "23.00",
+      "monthlyAmount": 2793.39,
+      "custSettlementInterestRate": 0,
+      "custSettlementRate": 0,
+      "loanAmount": 0
+    }
+  ],
+  "total": 3
+}

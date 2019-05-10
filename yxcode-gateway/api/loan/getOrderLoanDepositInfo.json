@@ -1,0 +1,12 @@
+{
+  "errorMessage": "",
+  "hasErrors": false,
+  "success": true,
+  "data": {
+    "isHasBond": "1",
+    "marginType": "1",
+    "marginAmount": "1",
+    "marginProportion": "1",
+    "isOffset": "1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "errorMessage": "",
+  "hasErrors": false,
+  "success": true,
+  "data": {
+    "buyTheftInsurance": "1",
+    "financePeriod": "1",
+    "markupType": "1",
+    "basePrice": "1",
+    "markupPrice": "100.00"
+  }
+}

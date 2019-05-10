@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "dictCode": "110100",
+      "dictName": "北京市",
+      "parentCode": "110000"
+    }
+  ],
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

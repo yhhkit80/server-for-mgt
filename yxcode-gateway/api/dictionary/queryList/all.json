@@ -1,0 +1,4578 @@
+{
+  "data": {
+    "PR:WhetherDiscountEnum": [
+      {
+        "dictCode": "051300000",
+        "dictName": "贴息"
+      },
+      {
+        "dictCode": "051300001",
+        "dictName": "不贴息"
+      }
+    ],
+    "PR:ResourceCarEnum": [
+      {
+        "dictCode": "049400000",
+        "dictName": "资源车"
+      },
+      {
+        "dictCode": "049400001",
+        "dictName": "非资源车"
+      }
+    ],
+    "PO:whether": [
+      {
+        "dictCode": "1",
+        "dictName": "是"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "否"
+      }
+    ],
+    "PO:customer_type": [
+      {
+        "dictCode": "1",
+        "dictName": "个人"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "企业"
+      }
+    ],
+    "PR:CarTypeEnum": [
+      {
+        "dictCode": "049500000",
+        "dictName": "新车"
+      },
+      {
+        "dictCode": "049500001",
+        "dictName": "二手车"
+      }
+    ],
+    "AL:1000005": [
+      {
+        "dictCode": "1",
+        "dictName": "是"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "否"
+      }
+    ],
+    "AL:1000004": [
+      {
+        "dictCode": "M",
+        "dictName": "男"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "女"
+      }
+    ],
+    "PO:insurance": [
+      {
+        "dictCode": "1",
+        "dictName": "商业盗抢险"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "车辆损失险"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "第三章责任险"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "车上人员责任责任险（司机）"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "车上人员责任责任险（乘客）"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "车身划痕险"
+      },
+      {
+        "dictCode": "7",
+        "dictName": "车辆停驶代步车费用险"
+      },
+      {
+        "dictCode": "8",
+        "dictName": "自燃损失险"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "玻璃单独破碎险"
+      },
+      {
+        "dictCode": "10",
+        "dictName": "指定专修险"
+      },
+      {
+        "dictCode": "11",
+        "dictName": "涉水行驶损失险"
+      }
+    ],
+    "PO:province": [
+      {
+        "dictCode": "340000",
+        "dictName": "皖"
+      },
+      {
+        "dictCode": "110000",
+        "dictName": "京"
+      },
+      {
+        "dictCode": "350000",
+        "dictName": "闽"
+      },
+      {
+        "dictCode": "620000",
+        "dictName": "甘"
+      },
+      {
+        "dictCode": "440000",
+        "dictName": "粤"
+      },
+      {
+        "dictCode": "450000",
+        "dictName": "桂"
+      },
+      {
+        "dictCode": "520000",
+        "dictName": "贵"
+      },
+      {
+        "dictCode": "460000",
+        "dictName": "琼"
+      },
+      {
+        "dictCode": "130000",
+        "dictName": "冀"
+      },
+      {
+        "dictCode": "410000",
+        "dictName": "豫"
+      },
+      {
+        "dictCode": "230000",
+        "dictName": "黑"
+      },
+      {
+        "dictCode": "420000",
+        "dictName": "鄂"
+      },
+      {
+        "dictCode": "430000",
+        "dictName": "湘"
+      },
+      {
+        "dictCode": "220000",
+        "dictName": "吉"
+      },
+      {
+        "dictCode": "320000",
+        "dictName": "苏"
+      },
+      {
+        "dictCode": "360000",
+        "dictName": "赣"
+      },
+      {
+        "dictCode": "210000",
+        "dictName": "辽"
+      },
+      {
+        "dictCode": "150000",
+        "dictName": "蒙"
+      },
+      {
+        "dictCode": "640000",
+        "dictName": "宁"
+      },
+      {
+        "dictCode": "630000",
+        "dictName": "青"
+      },
+      {
+        "dictCode": "370000",
+        "dictName": "鲁"
+      },
+      {
+        "dictCode": "140000",
+        "dictName": "晋"
+      },
+      {
+        "dictCode": "610000",
+        "dictName": "陕"
+      },
+      {
+        "dictCode": "310000",
+        "dictName": "沪"
+      },
+      {
+        "dictCode": "510000",
+        "dictName": "川"
+      },
+      {
+        "dictCode": "120000",
+        "dictName": "津"
+      },
+      {
+        "dictCode": "540000",
+        "dictName": "藏"
+      },
+      {
+        "dictCode": "650000",
+        "dictName": "新"
+      },
+      {
+        "dictCode": "530000",
+        "dictName": "云"
+      },
+      {
+        "dictCode": "330000",
+        "dictName": "浙"
+      },
+      {
+        "dictCode": "500000",
+        "dictName": "渝"
+      }
+    ],
+    "PO:car_number_prefix": [
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "500000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "460000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "640000"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "0",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "460000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "500000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "A",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "640000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "500000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "B",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "460000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "640000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "500000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "640000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "C",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "460000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "500000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "460000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "640000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "D",
+        "dictName": "D",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "460000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "500000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "E",
+        "dictName": "E",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "F",
+        "dictName": "F",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "500000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "G",
+        "dictName": "G",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "H",
+        "dictName": "H",
+        "parentCode": "630000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "520000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "540000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "J",
+        "dictName": "J",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "350000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "220000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "K",
+        "dictName": "K",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "T",
+        "dictName": "T",
+        "parentCode": "130000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "V",
+        "dictName": "V",
+        "parentCode": "610000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "330000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "140000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "L",
+        "dictName": "L",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "150000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "M",
+        "dictName": "M",
+        "parentCode": "360000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "320000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "N",
+        "dictName": "N",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "620000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "U",
+        "dictName": "U",
+        "parentCode": "430000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "210000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "O",
+        "dictName": "O",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "S",
+        "dictName": "S",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "X",
+        "dictName": "X",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "230000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "450000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "P",
+        "dictName": "P",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "Q",
+        "dictName": "Q",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "T",
+        "dictName": "T",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "650000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "120000"
+      },
+      {
+        "dictCode": "R",
+        "dictName": "R",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "Z",
+        "dictName": "Z",
+        "parentCode": "310000"
+      },
+      {
+        "dictCode": "S",
+        "dictName": "S",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "S",
+        "dictName": "S",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "S",
+        "dictName": "S",
+        "parentCode": "420000"
+      },
+      {
+        "dictCode": "S",
+        "dictName": "S",
+        "parentCode": "340000"
+      },
+      {
+        "dictCode": "Y",
+        "dictName": "Y",
+        "parentCode": "110000"
+      },
+      {
+        "dictCode": "S",
+        "dictName": "S",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "S",
+        "dictName": "S",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "U",
+        "dictName": "U",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "V",
+        "dictName": "V",
+        "parentCode": "530000"
+      },
+      {
+        "dictCode": "U",
+        "dictName": "U",
+        "parentCode": "410000"
+      },
+      {
+        "dictCode": "U",
+        "dictName": "U",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "T",
+        "dictName": "T",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "V",
+        "dictName": "V",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "V",
+        "dictName": "V",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "U",
+        "dictName": "U",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "W",
+        "dictName": "W",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "V",
+        "dictName": "V",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "X",
+        "dictName": "X",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "Y",
+        "dictName": "Y",
+        "parentCode": "370000"
+      },
+      {
+        "dictCode": "W",
+        "dictName": "W",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "Y",
+        "dictName": "Y",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "Z",
+        "dictName": "Z",
+        "parentCode": "510000"
+      },
+      {
+        "dictCode": "X",
+        "dictName": "X",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "Y",
+        "dictName": "Y",
+        "parentCode": "440000"
+      },
+      {
+        "dictCode": "Z",
+        "dictName": "Z",
+        "parentCode": "440000"
+      }
+    ],
+    "AL:1010045": [
+      {
+        "dictCode": "7",
+        "dictName": "大学本科"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "小学"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "初中"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "高中"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "技术学校"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "大学专科和专科学校"
+      },
+      {
+        "dictCode": "8",
+        "dictName": "研究生"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "研究生及以上"
+      },
+      {
+        "dictCode": "1",
+        "dictName": "文盲或半文盲"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "其它"
+      }
+    ],
+    "PR:RepayMethodEnum": [
+      {
+        "dictCode": "011200000",
+        "dictName": "等额本息"
+      },
+      {
+        "dictCode": "011200003",
+        "dictName": "气球贷"
+      }
+    ],
+    "PR:RepayFrequencyEnum": [
+      {
+        "dictCode": "010700000",
+        "dictName": "月"
+      }
+    ],
+    "AL:1010044": [
+      {
+        "dictCode": "1",
+        "dictName": "商用"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "企业自用"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "指定第三方自用"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "本人自用"
+      }
+    ],
+    "AL:1010043": [
+      {
+        "dictCode": "1",
+        "dictName": "已婚"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "未婚"
+      }
+    ],
+    "PO:certificate_type": [
+      {
+        "dictCode": "1",
+        "dictName": "身份证"
+      }
+    ],
+    "PR:BondCalMethodEnum": [
+      {
+        "dictCode": "054000000",
+        "dictName": "固定金额"
+      },
+      {
+        "dictCode": "054000001",
+        "dictName": "固定比例"
+      },
+      {
+        "dictCode": "054000002",
+        "dictName": "自定义"
+      }
+    ],
+    "PR:HasBondEnum": [
+      {
+        "dictCode": "053900000",
+        "dictName": "有保证金"
+      },
+      {
+        "dictCode": "053900001",
+        "dictName": "无保证金"
+      }
+    ],
+    "AL:3010007": [
+      {
+        "dictCode": "1",
+        "dictName": "穗圣"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "精真估"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "看车网"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "人人车"
+      },
+      {
+        "dictCode": "8",
+        "dictName": "百信"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "线上评估"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "免评估"
+      }
+    ],
+    "PO:car_usage_nature": [
+      {
+        "dictCode": "1",
+        "dictName": "营运"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "非营运"
+      }
+    ],
+    "PO:stage": [
+      {
+        "dictCode": "level1",
+        "dictName": "我的待处理"
+      },
+      {
+        "dictCode": "level2",
+        "dictName": "系统处理中"
+      },
+      {
+        "dictCode": "level3",
+        "dictName": "人工处理中"
+      },
+      {
+        "dictCode": "level4",
+        "dictName": "已结束（拒绝/成功/取消）"
+      }
+    ],
+    "PR:ChargeDeductMethodEnum": [
+      {
+        "dictCode": "055900000",
+        "dictName": "一次性"
+      },
+      {
+        "dictCode": "055900001",
+        "dictName": "分期"
+      }
+    ],
+    "PR:CustFirstSubjectEnum": [
+      {
+        "dictCode": "030100000",
+        "dictName": "线上"
+      },
+      {
+        "dictCode": "030100001",
+        "dictName": "线下"
+      }
+    ],
+    "PR:ChargeCalMethodEnum": [
+      {
+        "dictCode": "056000000",
+        "dictName": "固定金额"
+      },
+      {
+        "dictCode": "056000001",
+        "dictName": "固定比例"
+      }
+    ],
+    "PO:country": [
+      {
+        "dictCode": "CHN",
+        "dictName": "中华人民共和国"
+      },
+      {
+        "dictCode": "TWN",
+        "dictName": "中国台湾"
+      },
+      {
+        "dictCode": "HKG",
+        "dictName": "中国香港"
+      },
+      {
+        "dictCode": "MAC",
+        "dictName": "中国澳门"
+      },
+      {
+        "dictCode": "USA",
+        "dictName": "美国"
+      },
+      {
+        "dictCode": "JPN",
+        "dictName": "日本"
+      },
+      {
+        "dictCode": "DEU",
+        "dictName": "德意志联邦共和国"
+      },
+      {
+        "dictCode": "TTO",
+        "dictName": "特立尼达和多巴共和国"
+      },
+      {
+        "dictCode": "GBR",
+        "dictName": "英国"
+      },
+      {
+        "dictCode": "RUS",
+        "dictName": "俄罗斯"
+      },
+      {
+        "dictCode": "FRA",
+        "dictName": "法国"
+      },
+      {
+        "dictCode": "KOR",
+        "dictName": "韩国"
+      },
+      {
+        "dictCode": "IND",
+        "dictName": "印度"
+      },
+      {
+        "dictCode": "AUS",
+        "dictName": "澳大利亚"
+      },
+      {
+        "dictCode": "CAN",
+        "dictName": "加拿大"
+      },
+      {
+        "dictCode": "CHE",
+        "dictName": "瑞士"
+      },
+      {
+        "dictCode": "MEX",
+        "dictName": "墨西哥"
+      },
+      {
+        "dictCode": "BRA",
+        "dictName": "巴西"
+      },
+      {
+        "dictCode": "POL",
+        "dictName": "波兰"
+      },
+      {
+        "dictCode": "ITA",
+        "dictName": "意大利"
+      },
+      {
+        "dictCode": "ESP",
+        "dictName": "西班牙"
+      },
+      {
+        "dictCode": "PRT",
+        "dictName": "葡萄牙"
+      },
+      {
+        "dictCode": "SWE",
+        "dictName": "瑞典"
+      },
+      {
+        "dictCode": "DNK",
+        "dictName": "丹麦"
+      },
+      {
+        "dictCode": "NOR",
+        "dictName": "挪威"
+      },
+      {
+        "dictCode": "FIN",
+        "dictName": "芬兰"
+      },
+      {
+        "dictCode": "UKR",
+        "dictName": "乌克兰"
+      }
+    ],
+    "AR:1": [
+      {
+        "dictCode": "340000",
+        "dictName": "安徽省"
+      },
+      {
+        "dictCode": "110000",
+        "dictName": "北京市"
+      },
+      {
+        "dictCode": "350000",
+        "dictName": "福建省"
+      },
+      {
+        "dictCode": "620000",
+        "dictName": "甘肃省"
+      },
+      {
+        "dictCode": "440000",
+        "dictName": "广东省"
+      },
+      {
+        "dictCode": "450000",
+        "dictName": "广西壮族自治区"
+      },
+      {
+        "dictCode": "520000",
+        "dictName": "贵州省"
+      },
+      {
+        "dictCode": "460000",
+        "dictName": "海南省"
+      },
+      {
+        "dictCode": "130000",
+        "dictName": "河北省"
+      },
+      {
+        "dictCode": "410000",
+        "dictName": "河南省"
+      },
+      {
+        "dictCode": "230000",
+        "dictName": "黑龙江省"
+      },
+      {
+        "dictCode": "420000",
+        "dictName": "湖北省"
+      },
+      {
+        "dictCode": "430000",
+        "dictName": "湖南省"
+      },
+      {
+        "dictCode": "220000",
+        "dictName": "吉林省"
+      },
+      {
+        "dictCode": "320000",
+        "dictName": "江苏省"
+      },
+      {
+        "dictCode": "360000",
+        "dictName": "江西省"
+      },
+      {
+        "dictCode": "210000",
+        "dictName": "辽宁省"
+      },
+      {
+        "dictCode": "150000",
+        "dictName": "内蒙古自治区"
+      },
+      {
+        "dictCode": "640000",
+        "dictName": "宁夏回族自治区"
+      },
+      {
+        "dictCode": "630000",
+        "dictName": "青海省"
+      },
+      {
+        "dictCode": "370000",
+        "dictName": "山东省"
+      },
+      {
+        "dictCode": "140000",
+        "dictName": "山西省"
+      },
+      {
+        "dictCode": "610000",
+        "dictName": "陕西省"
+      },
+      {
+        "dictCode": "310000",
+        "dictName": "上海市"
+      },
+      {
+        "dictCode": "510000",
+        "dictName": "四川省"
+      },
+      {
+        "dictCode": "120000",
+        "dictName": "天津市"
+      },
+      {
+        "dictCode": "540000",
+        "dictName": "西藏自治区"
+      },
+      {
+        "dictCode": "650000",
+        "dictName": "新疆维吾尔自治区"
+      },
+      {
+        "dictCode": "530000",
+        "dictName": "云南省"
+      },
+      {
+        "dictCode": "330000",
+        "dictName": "浙江省"
+      },
+      {
+        "dictCode": "500000",
+        "dictName": "重庆市"
+      }
+    ],
+    "AL:1010034": [
+      {
+        "dictCode": "1",
+        "dictName": "朋友"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "同事"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "亲属"
+      }
+    ],
+    "PR:LeaseAttributeEnum": [
+      {
+        "dictCode": "0130000000000",
+        "dictName": "正租"
+      },
+      {
+        "dictCode": "0130000000001",
+        "dictName": "回租"
+      }
+    ],
+    "PR:LoanModeEnum": [
+      {
+        "dictCode": "051200000",
+        "dictName": "放款"
+      },
+      {
+        "dictCode": "051200001",
+        "dictName": "不放款"
+      }
+    ],
+    "PO:order_apply_type": [
+      {
+        "dictCode": "1",
+        "dictName": "零售"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "大项目"
+      }
+    ],
+    "AL:6006": [
+      {
+        "dictCode": "2",
+        "dictName": "大型企业"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "中型企业"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "小型企业"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "微型企业"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "其他"
+      },
+      {
+        "dictCode": "X",
+        "dictName": "未知"
+      }
+    ],
+    "AL:6005": [
+      {
+        "dictCode": "5",
+        "dictName": "营业执照"
+      },
+      {
+        "dictCode": "a",
+        "dictName": "组织机构代码证"
+      },
+      {
+        "dictCode": "1",
+        "dictName": "身份证"
+      },
+      {
+        "dictCode": "7",
+        "dictName": "临时身份证"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "户口簿"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "护照"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "军官证"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "士兵证"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "警官证"
+      },
+      {
+        "dictCode": "b",
+        "dictName": "港澳居民来往内地通行证"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "台湾同胞来往内地通行证"
+      },
+      {
+        "dictCode": "A",
+        "dictName": "香港身份证"
+      },
+      {
+        "dictCode": "B",
+        "dictName": "澳门身份证"
+      },
+      {
+        "dictCode": "C",
+        "dictName": "台湾身份证"
+      },
+      {
+        "dictCode": "c",
+        "dictName": "贷款卡"
+      },
+      {
+        "dictCode": "8",
+        "dictName": "外国人居留证"
+      },
+      {
+        "dictCode": "X",
+        "dictName": "其他证件"
+      }
+    ],
+    "PO:finance_type": [
+      {
+        "dictCode": "F001",
+        "dictName": "车款"
+      },
+      {
+        "dictCode": "F002",
+        "dictName": "购置税"
+      },
+      {
+        "dictCode": "F005",
+        "dictName": "账户管理费"
+      },
+      {
+        "dictCode": "F004",
+        "dictName": "车船交强险第一年"
+      },
+      {
+        "dictCode": "F006",
+        "dictName": "gps基础价"
+      },
+      {
+        "dictCode": "F007",
+        "dictName": "gps加价"
+      },
+      {
+        "dictCode": "F003",
+        "dictName": "商业险第一年"
+      },
+      {
+        "dictCode": "F008",
+        "dictName": "gps升级方案基础价"
+      },
+      {
+        "dictCode": "F009",
+        "dictName": "gps升级方案加价"
+      },
+      {
+        "dictCode": "F010",
+        "dictName": "手续费"
+      },
+      {
+        "dictCode": "F012",
+        "dictName": "盗抢责任险基础价"
+      },
+      {
+        "dictCode": "F013",
+        "dictName": "盗抢责任险加价"
+      },
+      {
+        "dictCode": "F014",
+        "dictName": "延保费"
+      },
+      {
+        "dictCode": "F015",
+        "dictName": "上牌工本费"
+      },
+      {
+        "dictCode": "F016",
+        "dictName": "车船交强险第二年"
+      },
+      {
+        "dictCode": "F017",
+        "dictName": "车船交强险第三年"
+      },
+      {
+        "dictCode": "F018",
+        "dictName": "商业险第二年"
+      },
+      {
+        "dictCode": "F019",
+        "dictName": "商业险第三年"
+      }
+    ],
+    "AL:6004": [
+      {
+        "dictCode": "10",
+        "dictName": "企业法人"
+      },
+      {
+        "dictCode": "11",
+        "dictName": "其他企业"
+      },
+      {
+        "dictCode": "12",
+        "dictName": "农民专业合作社"
+      },
+      {
+        "dictCode": "13",
+        "dictName": "个人独资、合伙企业"
+      },
+      {
+        "dictCode": "14",
+        "dictName": "企业的分支机构"
+      },
+      {
+        "dictCode": "20",
+        "dictName": "事业法人"
+      },
+      {
+        "dictCode": "21",
+        "dictName": "未登记的事业单位"
+      },
+      {
+        "dictCode": "24",
+        "dictName": "事业单位的分支机构"
+      },
+      {
+        "dictCode": "30",
+        "dictName": "机关法人"
+      },
+      {
+        "dictCode": "31",
+        "dictName": "机关的内设机构"
+      },
+      {
+        "dictCode": "32",
+        "dictName": "机关的下设机构"
+      },
+      {
+        "dictCode": "40",
+        "dictName": "社会团体法人"
+      },
+      {
+        "dictCode": "41",
+        "dictName": "社会团体分支机构"
+      },
+      {
+        "dictCode": "51",
+        "dictName": "民办非企业"
+      },
+      {
+        "dictCode": "52",
+        "dictName": "基金会"
+      },
+      {
+        "dictCode": "53",
+        "dictName": "居委会"
+      },
+      {
+        "dictCode": "54",
+        "dictName": "村委会"
+      },
+      {
+        "dictCode": "60",
+        "dictName": "律师事务所、司法鉴定所"
+      },
+      {
+        "dictCode": "61",
+        "dictName": "宗教活动场所"
+      },
+      {
+        "dictCode": "62",
+        "dictName": "境外在境内成立的组织机构"
+      },
+      {
+        "dictCode": "70",
+        "dictName": "个体工商户"
+      },
+      {
+        "dictCode": "99",
+        "dictName": "其他"
+      }
+    ],
+    "PO:currency": [
+      {
+        "dictCode": "CNY",
+        "dictName": "人民币"
+      },
+      {
+        "dictCode": "USD",
+        "dictName": "美元"
+      },
+      {
+        "dictCode": "DEM",
+        "dictName": "德国马克"
+      },
+      {
+        "dictCode": "HKD",
+        "dictName": "港币"
+      },
+      {
+        "dictCode": "TWD",
+        "dictName": "新台币"
+      },
+      {
+        "dictCode": "KRW",
+        "dictName": "韩元"
+      },
+      {
+        "dictCode": "JPY",
+        "dictName": "日元"
+      },
+      {
+        "dictCode": "GBP",
+        "dictName": "英镑"
+      },
+      {
+        "dictCode": "FRF",
+        "dictName": "法郎"
+      },
+      {
+        "dictCode": "EUR",
+        "dictName": "欧元"
+      },
+      {
+        "dictCode": "RUB",
+        "dictName": "俄罗斯卢布"
+      },
+      {
+        "dictCode": "AUD",
+        "dictName": "澳元"
+      },
+      {
+        "dictCode": "CAD",
+        "dictName": "加元"
+      },
+      {
+        "dictCode": "IDR",
+        "dictName": "印度卢比"
+      },
+      {
+        "dictCode": "CHF",
+        "dictName": "瑞士法郎"
+      },
+      {
+        "dictCode": "MXP",
+        "dictName": "墨西哥元"
+      },
+      {
+        "dictCode": "BRL",
+        "dictName": "巴西雷亚尔"
+      },
+      {
+        "dictCode": "PLZ",
+        "dictName": "波兰兹罗提PLN"
+      },
+      {
+        "dictCode": "SEK",
+        "dictName": "瑞典克朗"
+      }
+    ],
+    "AL:6003": [
+      {
+        "dictCode": "1",
+        "dictName": "企业"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "事业单位"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "机关"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "社会团体"
+      },
+      {
+        "dictCode": "7",
+        "dictName": "个体工商户"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "其他"
+      }
+    ],
+    "PO:relationship": [
+      {
+        "dictCode": "1",
+        "dictName": "父亲"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "母亲"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "配偶"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "子女"
+      }
+    ],
+    "PO:insurance_type": [
+      {
+        "dictCode": "1",
+        "dictName": "商业险"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "车船税交强险"
+      }
+    ],
+    "PR:FinanceItemCustomerPropBaseEnum": [
+      {
+        "dictCode": "055700000",
+        "dictName": "客户融资额"
+      },
+      {
+        "dictCode": "055700001",
+        "dictName": "车辆销售价"
+      },
+      {
+        "dictCode": "055700002",
+        "dictName": "风控融资额"
+      }
+    ],
+    "PO:first_subject": [
+      {
+        "dictCode": "04970000",
+        "dictName": "代理商"
+      },
+      {
+        "dictCode": "04970001",
+        "dictName": "体验店"
+      },
+      {
+        "dictCode": "04970002",
+        "dictName": "直营"
+      },
+      {
+        "dictCode": "04970003",
+        "dictName": "厂商"
+      }
+    ],
+    "PO:order_sub_stage": [
+      {
+        "dictCode": "level11",
+        "dictName": "待预审"
+      },
+      {
+        "dictCode": "level12",
+        "dictName": "待提报"
+      },
+      {
+        "dictCode": "level13",
+        "dictName": "待签约"
+      },
+      {
+        "dictCode": "level14",
+        "dictName": "待请款"
+      }
+    ],
+    "PO:responsibility_type": [
+      {
+        "dictCode": "1",
+        "dictName": "对私"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "普通"
+      }
+    ],
+    "AL:1010028": [
+      {
+        "dictCode": "1",
+        "dictName": "一次性购买"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "分年购买"
+      }
+    ],
+    "PR:BusinessTypeEnum": [
+      {
+        "dictCode": "01300000",
+        "dictName": "消费贷"
+      },
+      {
+        "dictCode": "0130000100000",
+        "dictName": "车抵贷"
+      },
+      {
+        "dictCode": "0130000200000",
+        "dictName": "库存融资"
+      },
+      {
+        "dictCode": "0130000500000",
+        "dictName": "经营性租赁"
+      }
+    ],
+    "PO:order_status": [
+      {
+        "dictCode": "P033",
+        "dictName": "主动/系统反欺诈审核中",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P023",
+        "dictName": "等待大数据",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P050",
+        "dictName": "预审拒绝",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P001",
+        "dictName": "待征信授权",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P002",
+        "dictName": "待补充预审",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P051",
+        "dictName": "合同已生效",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P025",
+        "dictName": "等待新风控",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P034",
+        "dictName": "总部电核中（初审）",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P035",
+        "dictName": "sp总部风控审批中",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P004",
+        "dictName": "待补充提报",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P026",
+        "dictName": "自动审批",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P052",
+        "dictName": "客户已提车",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P005",
+        "dictName": "电核退回店面提报",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P053",
+        "dictName": "合同已放款",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P027",
+        "dictName": "等待银行审批",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P036",
+        "dictName": "反欺诈",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P037",
+        "dictName": "总部风控审批中",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P028",
+        "dictName": "等待银行合同中",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P054",
+        "dictName": "合同已拒绝",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P006",
+        "dictName": "风控退回店面提报",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P038",
+        "dictName": "总部合同审核中",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P029",
+        "dictName": "等待银行信审中",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P055",
+        "dictName": "合同已拒绝风险审批/核实评估",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P007",
+        "dictName": "店面提回修改中",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P030",
+        "dictName": "等待银行签章中",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P039",
+        "dictName": "确认采购价",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P056",
+        "dictName": "已生效合同当月取消",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P008",
+        "dictName": "上传二手车报告",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P040",
+        "dictName": "采购价审批",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P010",
+        "dictName": "确认并生成合同",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P031",
+        "dictName": "等待银行签署授权书",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P057",
+        "dictName": "已生效合同非当月取消",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P011",
+        "dictName": "上传车辆合格证",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P058",
+        "dictName": "正常客户结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P041",
+        "dictName": "库存车核实",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P042",
+        "dictName": "GPS定位判断",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P059",
+        "dictName": "正常提前还款结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P012",
+        "dictName": "打印合同",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P060",
+        "dictName": "强制提前还款结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P043",
+        "dictName": "后置保单审核",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P013",
+        "dictName": "合同请款",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P061",
+        "dictName": "转续租提前还款结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P044",
+        "dictName": "后置合同审核",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P014",
+        "dictName": "合同审核退回店面",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P045",
+        "dictName": "保单后置审核（车抵贷）",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P062",
+        "dictName": "转销售提前还款结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P015",
+        "dictName": "保单上传",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P047",
+        "dictName": "GPS费用确认",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P063",
+        "dictName": "坏账核销结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P016",
+        "dictName": "后置保单上传",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P064",
+        "dictName": "客户赎回结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P017",
+        "dictName": "GPS确认",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P049",
+        "dictName": "授权书审核",
+        "parentCode": "level3"
+      },
+      {
+        "dictCode": "P065",
+        "dictName": "二手车买断结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P083",
+        "dictName": "首保审核退回店面",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P018",
+        "dictName": "保单上传（后置）",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P066",
+        "dictName": "3b-展期",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P019",
+        "dictName": "保单上传（车抵贷）",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P067",
+        "dictName": "风控前合同取消",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P068",
+        "dictName": "风控后合同取消",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P069",
+        "dictName": "部分债权转让",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P022",
+        "dictName": "店面确认付款",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P070",
+        "dictName": "全额债权转让",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P084",
+        "dictName": "店面附件修改",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P071",
+        "dictName": "核销账户",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P067",
+        "dictName": "风控前合同取消",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P068",
+        "dictName": "风控后合同取消",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P069",
+        "dictName": "部分债权转让",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P070",
+        "dictName": "全额债权转让",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P071",
+        "dictName": "核销账户",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P072",
+        "dictName": "全额债权转让结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P073",
+        "dictName": "核销账户结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P074",
+        "dictName": "买断结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P075",
+        "dictName": "提前还车",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P076",
+        "dictName": "资源车到期结清",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P077",
+        "dictName": "不良资产转让",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P078",
+        "dictName": "全额债权转让",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P079",
+        "dictName": "核销",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P080",
+        "dictName": "合同待生效",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P081",
+        "dictName": "1+1订单取消",
+        "parentCode": "level4"
+      },
+      {
+        "dictCode": "P086",
+        "dictName": "提交失败",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P087",
+        "dictName": "提交中",
+        "parentCode": "level2"
+      },
+      {
+        "dictCode": "P088",
+        "dictName": "等待担保人授权",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P089",
+        "dictName": "待组长审核",
+        "parentCode": "level1"
+      },
+      {
+        "dictCode": "P090",
+        "dictName": "复议待提报",
+        "parentCode": "level1"
+      }
+    ],
+    "AL:6008": [
+      {
+        "dictCode": "10",
+        "dictName": "内资"
+      },
+      {
+        "dictCode": "11",
+        "dictName": "国有全资"
+      },
+      {
+        "dictCode": "12",
+        "dictName": "集体全资"
+      },
+      {
+        "dictCode": "13",
+        "dictName": "股份合作"
+      },
+      {
+        "dictCode": "14",
+        "dictName": "联营"
+      },
+      {
+        "dictCode": "15",
+        "dictName": "有限责任公司"
+      },
+      {
+        "dictCode": "16",
+        "dictName": "股份有限公司"
+      },
+      {
+        "dictCode": "17",
+        "dictName": "私有"
+      },
+      {
+        "dictCode": "19",
+        "dictName": "其它内资"
+      },
+      {
+        "dictCode": "20",
+        "dictName": "港澳台投资"
+      },
+      {
+        "dictCode": "21",
+        "dictName": "内地和港澳台投资"
+      },
+      {
+        "dictCode": "22",
+        "dictName": "内地和港澳台合作"
+      },
+      {
+        "dictCode": "23",
+        "dictName": "港澳台独资"
+      },
+      {
+        "dictCode": "24",
+        "dictName": "港澳台投资股份有限公司"
+      },
+      {
+        "dictCode": "29",
+        "dictName": "其他港澳台投资"
+      },
+      {
+        "dictCode": "30",
+        "dictName": "国外投资"
+      },
+      {
+        "dictCode": "31",
+        "dictName": "中外合资"
+      },
+      {
+        "dictCode": "32",
+        "dictName": "中外合作"
+      },
+      {
+        "dictCode": "33",
+        "dictName": "外资"
+      },
+      {
+        "dictCode": "34",
+        "dictName": "国外投资股份有限公司"
+      },
+      {
+        "dictCode": "39",
+        "dictName": "其他国外投资"
+      },
+      {
+        "dictCode": "90",
+        "dictName": "其他"
+      }
+    ],
+    "AL:6007": [
+      {
+        "dictCode": "1",
+        "dictName": "正常"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "注销"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "其他"
+      },
+      {
+        "dictCode": "X",
+        "dictName": "未知"
+      }
+    ],
+    "AL:9902": [
+      {
+        "dictCode": "1",
+        "dictName": "身份证"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "军官证"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "护照"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "士兵证"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "工商营业执政号码"
+      }
+    ],
+    "PR:ChargeMethodEnum": [
+      {
+        "dictCode": "011100000",
+        "dictName": "利率"
+      },
+      {
+        "dictCode": "011100001",
+        "dictName": "费率"
+      },
+      {
+        "dictCode": "011100002",
+        "dictName": "息费"
+      }
+    ],
+    "AL:9906": [
+      {
+        "dictCode": "4",
+        "dictName": "学士"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "硕士"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "博士"
+      },
+      {
+        "dictCode": "1",
+        "dictName": "名誉博士"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "未知"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "其他"
+      }
+    ],
+    "PR:FeeTypeEnum": [
+      {
+        "dictCode": "052100000",
+        "dictName": "自定义"
+      },
+      {
+        "dictCode": "052100001",
+        "dictName": "档位"
+      },
+      {
+        "dictCode": "052100002",
+        "dictName": "固定比例"
+      }
+    ],
+    "PO:nation": [
+      {
+        "dictCode": "1",
+        "dictName": "汉族"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "蒙古族"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "回族"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "藏族"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "维吾尔族"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "苗族"
+      },
+      {
+        "dictCode": "7",
+        "dictName": "彝族"
+      },
+      {
+        "dictCode": "8",
+        "dictName": "壮族"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "布依族"
+      },
+      {
+        "dictCode": "10",
+        "dictName": "朝鲜族"
+      },
+      {
+        "dictCode": "11",
+        "dictName": "满族"
+      },
+      {
+        "dictCode": "12",
+        "dictName": "侗族"
+      },
+      {
+        "dictCode": "13",
+        "dictName": "瑶族"
+      },
+      {
+        "dictCode": "14",
+        "dictName": "白族"
+      },
+      {
+        "dictCode": "15",
+        "dictName": "土家族"
+      },
+      {
+        "dictCode": "16",
+        "dictName": "哈尼族"
+      },
+      {
+        "dictCode": "17",
+        "dictName": "哈萨克族"
+      },
+      {
+        "dictCode": "18",
+        "dictName": "傣族"
+      },
+      {
+        "dictCode": "19",
+        "dictName": "黎族"
+      },
+      {
+        "dictCode": "20",
+        "dictName": "傈僳族"
+      },
+      {
+        "dictCode": "21",
+        "dictName": "佤族"
+      },
+      {
+        "dictCode": "22",
+        "dictName": "畲族"
+      },
+      {
+        "dictCode": "23",
+        "dictName": "高山族"
+      },
+      {
+        "dictCode": "24",
+        "dictName": "拉祜族"
+      },
+      {
+        "dictCode": "25",
+        "dictName": "水族"
+      },
+      {
+        "dictCode": "26",
+        "dictName": "东乡族"
+      },
+      {
+        "dictCode": "27",
+        "dictName": "纳西族"
+      },
+      {
+        "dictCode": "28",
+        "dictName": "景颇族"
+      },
+      {
+        "dictCode": "29",
+        "dictName": "柯尔克孜族"
+      },
+      {
+        "dictCode": "30",
+        "dictName": "土族"
+      },
+      {
+        "dictCode": "31",
+        "dictName": "达斡尔族"
+      },
+      {
+        "dictCode": "32",
+        "dictName": "仫佬族"
+      },
+      {
+        "dictCode": "33",
+        "dictName": "羌族"
+      },
+      {
+        "dictCode": "34",
+        "dictName": "布朗族"
+      },
+      {
+        "dictCode": "35",
+        "dictName": "撒拉族"
+      },
+      {
+        "dictCode": "36",
+        "dictName": "毛难族"
+      },
+      {
+        "dictCode": "37",
+        "dictName": "仡佬族"
+      },
+      {
+        "dictCode": "38",
+        "dictName": "锡伯族"
+      },
+      {
+        "dictCode": "39",
+        "dictName": "阿昌族"
+      },
+      {
+        "dictCode": "40",
+        "dictName": "普米族"
+      },
+      {
+        "dictCode": "41",
+        "dictName": "塔吉克族"
+      },
+      {
+        "dictCode": "42",
+        "dictName": "怒族"
+      },
+      {
+        "dictCode": "43",
+        "dictName": "乌孜别克族"
+      },
+      {
+        "dictCode": "44",
+        "dictName": "俄罗斯族"
+      },
+      {
+        "dictCode": "45",
+        "dictName": "鄂温克族"
+      },
+      {
+        "dictCode": "46",
+        "dictName": "崩龙族"
+      },
+      {
+        "dictCode": "47",
+        "dictName": "保安族"
+      },
+      {
+        "dictCode": "48",
+        "dictName": "裕固族"
+      },
+      {
+        "dictCode": "49",
+        "dictName": "京族"
+      },
+      {
+        "dictCode": "50",
+        "dictName": "塔塔尔族"
+      },
+      {
+        "dictCode": "51",
+        "dictName": "独龙族"
+      },
+      {
+        "dictCode": "52",
+        "dictName": "鄂伦春族"
+      },
+      {
+        "dictCode": "53",
+        "dictName": "赫哲族"
+      },
+      {
+        "dictCode": "54",
+        "dictName": "门巴族"
+      },
+      {
+        "dictCode": "55",
+        "dictName": "珞巴族"
+      },
+      {
+        "dictCode": "56",
+        "dictName": "基诺族"
+      },
+      {
+        "dictCode": "97",
+        "dictName": "其他"
+      },
+      {
+        "dictCode": "98",
+        "dictName": "外国血统"
+      }
+    ],
+    "PR:BondOffsetEnum": [
+      {
+        "dictCode": "054100000",
+        "dictName": "抵扣"
+      },
+      {
+        "dictCode": "054100001",
+        "dictName": "不可抵扣"
+      }
+    ],
+    "AL:economics_big_type": [
+      {
+        "dictCode": "a",
+        "dictName": "农、林、牧、渔业"
+      },
+      {
+        "dictCode": "b",
+        "dictName": "采矿业"
+      },
+      {
+        "dictCode": "c",
+        "dictName": "制造业"
+      },
+      {
+        "dictCode": "d",
+        "dictName": "电力、热力、燃气及水生产和供应业"
+      },
+      {
+        "dictCode": "e",
+        "dictName": "建筑业"
+      },
+      {
+        "dictCode": "g",
+        "dictName": "交通运输、仓储和邮政业"
+      },
+      {
+        "dictCode": "f",
+        "dictName": "批发和零售业"
+      },
+      {
+        "dictCode": "h",
+        "dictName": "住宿和餐饮业"
+      },
+      {
+        "dictCode": "i",
+        "dictName": "信息传输、软件和信息技术服务业"
+      },
+      {
+        "dictCode": "j",
+        "dictName": "金融业"
+      },
+      {
+        "dictCode": "k",
+        "dictName": "房地产业"
+      },
+      {
+        "dictCode": "l",
+        "dictName": "租赁和商务服务业"
+      },
+      {
+        "dictCode": "m",
+        "dictName": "科学研究和技术服务业"
+      },
+      {
+        "dictCode": "n",
+        "dictName": "水利、环境和公共设施管理业"
+      },
+      {
+        "dictCode": "o",
+        "dictName": "居民服务、修理和其他服务业"
+      },
+      {
+        "dictCode": "p",
+        "dictName": "教育"
+      },
+      {
+        "dictCode": "q",
+        "dictName": "卫生和社会工作"
+      },
+      {
+        "dictCode": "r",
+        "dictName": "文化、体育和娱乐业"
+      },
+      {
+        "dictCode": "s",
+        "dictName": "公共管理、社会保障和社会组织"
+      },
+      {
+        "dictCode": "t",
+        "dictName": "国际组织"
+      }
+    ],
+    "AL:1010016": [
+      {
+        "dictCode": "1",
+        "dictName": "职员"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "主管"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "经理"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "总监"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "顾问"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "总经理"
+      },
+      {
+        "dictCode": "7",
+        "dictName": "高级管理层"
+      },
+      {
+        "dictCode": "8",
+        "dictName": "法人"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "股东"
+      },
+      {
+        "dictCode": "10",
+        "dictName": "其他"
+      },
+      {
+        "dictCode": "11",
+        "dictName": "未知"
+      }
+    ],
+    "AL:1010019": [
+      {
+        "dictCode": "1",
+        "dictName": "农、林、牧、渔业"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "采掘业"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "制造业"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "电力、燃气及水电生产和供应业"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "建筑业"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "交通运输、仓储和邮政业"
+      },
+      {
+        "dictCode": "7",
+        "dictName": "信息传输、计算机服务和软件业"
+      },
+      {
+        "dictCode": "8",
+        "dictName": "批发和零售业"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "住宿和餐饮业"
+      },
+      {
+        "dictCode": "10",
+        "dictName": "金融业"
+      },
+      {
+        "dictCode": "11",
+        "dictName": "房地产业"
+      },
+      {
+        "dictCode": "12",
+        "dictName": "租赁和商务服务业"
+      },
+      {
+        "dictCode": "13",
+        "dictName": "科学研究、技术服务业和地质勘察业"
+      },
+      {
+        "dictCode": "14",
+        "dictName": "水利、环境和公共设施管理业"
+      },
+      {
+        "dictCode": "15",
+        "dictName": "居民服务和其他服务业"
+      },
+      {
+        "dictCode": "16",
+        "dictName": "教育"
+      },
+      {
+        "dictCode": "17",
+        "dictName": "卫生、社会保障和社会福利业"
+      },
+      {
+        "dictCode": "18",
+        "dictName": "文化、体育和娱乐业"
+      },
+      {
+        "dictCode": "19",
+        "dictName": "公共管理和社会组织"
+      },
+      {
+        "dictCode": "20",
+        "dictName": "国际组织"
+      },
+      {
+        "dictCode": "21",
+        "dictName": "未知"
+      }
+    ],
+    "AL:1010018": [
+      {
+        "dictCode": "4",
+        "dictName": "初级"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "中级"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "高级"
+      },
+      {
+        "dictCode": "1",
+        "dictName": "无"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "未知"
+      }
+    ],
+    "PR:LoanTermEnum": [
+      {
+        "dictCode": "1",
+        "dictName": "1期"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "2期"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "3期"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "5期"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "6期"
+      },
+      {
+        "dictCode": "12",
+        "dictName": "12期"
+      },
+      {
+        "dictCode": "18",
+        "dictName": "18期"
+      },
+      {
+        "dictCode": "19",
+        "dictName": "19期"
+      },
+      {
+        "dictCode": "24",
+        "dictName": "24期"
+      },
+      {
+        "dictCode": "30",
+        "dictName": "30期"
+      },
+      {
+        "dictCode": "36",
+        "dictName": "36期"
+      },
+      {
+        "dictCode": "42",
+        "dictName": "36期"
+      },
+      {
+        "dictCode": "48",
+        "dictName": "48期"
+      },
+      {
+        "dictCode": "60",
+        "dictName": "60期"
+      }
+    ],
+    "AL:1010015": [
+      {
+        "dictCode": "1",
+        "dictName": "民营企业"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "个体经济"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "国有机关/国有企业事业单位"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "外资本或合资公司"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "股份公司"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "自由职业"
+      },
+      {
+        "dictCode": "8",
+        "dictName": "专业技术人员"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "办事人员和有关人员"
+      },
+      {
+        "dictCode": "10",
+        "dictName": "商业、服务业人员"
+      },
+      {
+        "dictCode": "11",
+        "dictName": "农、林、牧、渔、水利业生产人员"
+      },
+      {
+        "dictCode": "12",
+        "dictName": "生产、运输设备操作人员及有关人员"
+      },
+      {
+        "dictCode": "13",
+        "dictName": "军人"
+      },
+      {
+        "dictCode": "14",
+        "dictName": "不便分类的其他从业人员"
+      },
+      {
+        "dictCode": "0",
+        "dictName": "国家机关、党群组织、企业、事业单位负责人"
+      },
+      {
+        "dictCode": "7",
+        "dictName": "其它"
+      },
+      {
+        "dictCode": "15",
+        "dictName": "未知"
+      }
+    ],
+    "PR:DiscountMethodEnum": [
+      {
+        "dictCode": "051400000",
+        "dictName": "固定金额"
+      },
+      {
+        "dictCode": "051400001",
+        "dictName": "固定比例"
+      },
+      {
+        "dictCode": "051400002",
+        "dictName": "自定义"
+      }
+    ],
+    "PO:billing_place": [
+      {
+        "dictCode": "1",
+        "dictName": "当地"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "总部"
+      }
+    ],
+    "AL:99066": [
+      {
+        "dictCode": "1",
+        "dictName": "自置"
+      },
+      {
+        "dictCode": "2",
+        "dictName": "按揭"
+      },
+      {
+        "dictCode": "3",
+        "dictName": "亲属楼宇"
+      },
+      {
+        "dictCode": "4",
+        "dictName": "集体宿舍"
+      },
+      {
+        "dictCode": "5",
+        "dictName": "租房"
+      },
+      {
+        "dictCode": "6",
+        "dictName": "共有住宅"
+      },
+      {
+        "dictCode": "7",
+        "dictName": "其他"
+      },
+      {
+        "dictCode": "9",
+        "dictName": "未知"
+      }
+    ]
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

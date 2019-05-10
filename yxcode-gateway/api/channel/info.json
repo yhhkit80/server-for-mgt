@@ -1,0 +1,24 @@
+{
+  "data": {
+    "busiConfigId": "0000000065570eb001655b37ac790029",
+    "businessModelName": "体验店",
+    "channelCode": "QD180913001",
+    "channelId": "0000000065cd9a820165d0b2ac7f004a",
+    "channelName": "北京一店-体验店",
+    "cityCode": "110100",
+    "cooperationCode": "P00024",
+    "cooperationName": "奥迪项目",
+    "evaluationValueFloat": "0",
+    "firstSubject": "04970003",
+    "firstSubjectName": "厂商",
+    "mainId": "2c9c508165b20b8f0165b228241906ca",
+    "mainName": "苏州韵诚汽车服务有限公司",
+    "province": "北京市",
+    "provinceCode": "110000",
+    "secondSubject": "0497000300000",
+    "secondSubjectName": "厂商4S店",
+    "shopId": "0000000065cd9a2c0165d0b259ed0072",
+    "shopName": "北京一店"
+  },
+  "success": true
+}

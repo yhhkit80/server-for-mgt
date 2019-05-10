@@ -1,0 +1,10 @@
+{
+  "data": {
+    "respCode": "0000",
+    "respMsg": "请求成功",
+    "visitURL": "http://192.168.177.124:8088/hydra/index.html?token=RFHjqBdHpueMslSzzeRU"
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

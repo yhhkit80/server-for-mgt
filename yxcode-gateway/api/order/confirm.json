@@ -1,0 +1,25 @@
+{
+  "data": {
+    "customerType": "2",
+    "applyName": "陆丰市郑创口腔科器材有限公司",
+    "orderNo": "8899998998",
+    "certificateNo": "91441581MA4UPQUH97",
+    "productName": "测试产品002-风控数据勿动",
+    "carStyleName": "电动 引力限量型",
+    "financePeriod": "36",
+    "custFinanceAmount": "11,7000.00",
+    "actualSellingPrice": "16,0000.00",
+    "monthlyAmount": "3631.12",
+    "downPaymentProportion": "30.00",
+    "finalPaymentProportion": "10.00",
+    "downPaymentAmount": "4,8000.00",
+    "finalPaymentAmount": "1,6000.00",
+    "remark": "",
+    "hasPersonaGuarantor": 0,
+    "fundCode": "",
+    "fundName": ""
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

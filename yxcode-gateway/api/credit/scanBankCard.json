@@ -1,0 +1,11 @@
+{
+  "data": {
+    "requestId": null,
+    "bankcardNo": "6226900705435838",
+    "bankcardValidDate": "12/1949",
+    "bankcardValidDateFormat": "1949-12"
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

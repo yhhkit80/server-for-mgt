@@ -1,0 +1,134 @@
+{
+  "data": {
+    "orderNo": "2599998996",
+    "businessTypeConfig": [
+      {
+        "name": "消费贷",
+        "value": "01300000"
+      }
+    ],
+    "leaseTypeConfig": [
+      {
+        "name": "正租",
+        "value": "0130000000000"
+      },
+      {
+        "name": "回租",
+        "value": "0130000000001"
+      }
+    ],
+    "repaymentModeConfig": [
+      {
+        "name": "等额本息",
+        "value": "011200000"
+      }
+    ],
+    "repaymentFrequencyConfig": [
+      {
+        "name": "月",
+        "value": "010700000"
+      }
+    ],
+    "financePeriodConfig": [
+      {
+        "name": "36期",
+        "value": "36"
+      },
+      {
+        "name": "3期",
+        "value": "3"
+      },
+      {
+        "name": "6期",
+        "value": "6"
+      },
+      {
+        "name": "12期",
+        "value": "12"
+      },
+      {
+        "name": "18期",
+        "value": "18"
+      },
+      {
+        "name": "24期",
+        "value": "24"
+      },
+      {
+        "name": "60期",
+        "value": "60"
+      }
+    ],
+    "carTypeConfig": [
+      {
+        "name": "新车",
+        "value": "049500000"
+      }
+    ],
+    "isResourceCarConfig": [
+      {
+        "name": "资源车",
+        "value": "049400000"
+      }
+    ],
+    "businessType": "01300000",
+    "leaseType": null,
+    "repaymentMode": null,
+    "repaymentFrequency": null,
+    "financePeriod": null,
+    "carType": "049500000",
+    "isResourceCar": "1",
+    "carGuidancePrice": 158900.00,
+    "carEstimatedPrice": null,
+    "actualSellingPrice": null,
+    "purchasePurpose": null,
+    "carCommercialType": null,
+    "isReverseMortgage": null,
+    "mileage": null,
+    "vinNum": null,
+    "productionDate": null,
+    "initialDate": null,
+    "provinceCode": null,
+    "cityCode": null,
+    "licenseSequence": null,
+    "licenseNum": null,
+    "carEvaluationAgency": null,
+    "carTransferDate": null,
+    "carInvoiceDate": null,
+    "channelOneLevel": null,
+    "hasSaved": false,
+    "customerType": "2",
+    "seatNumCode": 5,
+    "displacement": "0",
+    "hasInsurance": 1,
+    "hasGps": 1,
+    "hasTheftInsurance": 1,
+    "hasOtherFinance": 1,
+    "hasMargin": 1,
+    "hasFeeDiscount": 0,
+    "hasRateDiscount": 1,
+    "productCode": "M000068",
+    "productType": "052500000",
+    "productName": "alix产品一勿动",
+    "productVersion": "33.0",
+    "carVesselCompulsoryInsurancePrice": 1100.00,
+    "chargingMode": "011100000",
+    "custPrimaryChannelConfig": [
+      {
+        "name": "线上",
+        "value": "030100000"
+      },
+      {
+        "name": "线下",
+        "value": "030100001"
+      }
+    ],
+    "custPrimaryChannel": null,
+    "predictLicenseProvinceCode": null,
+    "predictLicenseCityCode": null,
+    "completed": false
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}

@@ -1,0 +1,402 @@
+{
+  "data": {
+    "orderNo": "6599999981",
+    "financeBaseInfo": {
+      "orderNo": "6599999981",
+      "businessTypeConfig": [
+        {
+          "name": "消费贷",
+          "value": "01300000"
+        }
+      ],
+      "leaseTypeConfig": [
+        {
+          "name": "正租",
+          "value": "0130000000000"
+        },
+        {
+          "name": "回租",
+          "value": "0130000000001"
+        }
+      ],
+      "repaymentModeConfig": [
+        {
+          "name": "等额本息",
+          "value": "011200000"
+        }
+      ],
+      "repaymentFrequencyConfig": [
+        {
+          "name": "月",
+          "value": "010700000"
+        }
+      ],
+      "financePeriodConfig": [
+        {
+          "name": "36期",
+          "value": "36"
+        },
+        {
+          "name": "12期",
+          "value": "12"
+        },
+        {
+          "name": "24期",
+          "value": "24"
+        }
+      ],
+      "carTypeConfig": [
+        {
+          "name": "新车",
+          "value": "049500000"
+        }
+      ],
+      "isResourceCarConfig": [
+        {
+          "name": "资源车",
+          "value": "049400000"
+        }
+      ],
+      "businessType": "01300000",
+      "leaseType": "0130000000000",
+      "repaymentMode": "011200000",
+      "repaymentFrequency": "010700000",
+      "financePeriod": "36",
+      "carType": "049500000",
+      "isResourceCar": "1",
+      "carGuidancePrice": 559800.00,
+      "carEstimatedPrice": null,
+      "actualSellingPrice": 50000.00,
+      "purchasePurpose": "1",
+      "carCommercialType": "1",
+      "isReverseMortgage": "0",
+      "mileage": null,
+      "vinNum": "",
+      "productionDate": null,
+      "initialDate": null,
+      "provinceCode": "",
+      "cityCode": "",
+      "licenseSequence": "",
+      "licenseNum": "",
+      "carEvaluationAgency": null,
+      "carTransferDate": null,
+      "carInvoiceDate": null,
+      "channelOneLevel": "",
+      "hasSaved": false,
+      "customerType": "2",
+      "seatNumCode": 5,
+      "displacement": "2995",
+      "hasInsurance": 1,
+      "hasGps": 1,
+      "hasTheftInsurance": 1,
+      "hasOtherFinance": 1,
+      "hasMargin": 1,
+      "hasFeeDiscount": 0,
+      "hasRateDiscount": 1,
+      "productCode": "M000088",
+      "productType": "052500000",
+      "productName": " 娜娜利率产品贴息（勿操作） ",
+      "productVersion": "10.0",
+      "carVesselCompulsoryInsurancePrice": 2500.00,
+      "chargingMode": "011100000",
+      "custPrimaryChannelConfig": [
+        {
+          "name": "线上",
+          "value": "030100000"
+        },
+        {
+          "name": "线下",
+          "value": "030100001"
+        }
+      ],
+      "custPrimaryChannel": "030100000",
+      "predictLicenseProvinceCode": "340000",
+      "predictLicenseCityCode": "340800",
+      "completed": false
+    },
+    "financeItemInfo": {
+      "orderNo": null,
+      "insuranceInfo": {
+        "isFinanceInsurance": "0",
+        "insuranceChannel": "",
+        "insuranceMode": "",
+        "isRequire": "0",
+        "insuranceItemList": [
+          {
+            "id": null,
+            "period": "1",
+            "isRequireFinanceCode": null,
+            "financeCodeConfig": "F003,F004",
+            "financeCode": "",
+            "insuranceKind": "",
+            "insurancMinPrice": null,
+            "insuranceMaxPrice": null,
+            "insuranceAmount": null
+          },
+          {
+            "id": null,
+            "period": "2",
+            "isRequireFinanceCode": null,
+            "financeCodeConfig": "F016,F018",
+            "financeCode": "",
+            "insuranceKind": "",
+            "insurancMinPrice": null,
+            "insuranceMaxPrice": null,
+            "insuranceAmount": null
+          },
+          {
+            "id": null,
+            "period": "3",
+            "isRequireFinanceCode": null,
+            "financeCodeConfig": "F017,F019",
+            "financeCode": "",
+            "insuranceKind": "",
+            "insurancMinPrice": null,
+            "insuranceMaxPrice": null,
+            "insuranceAmount": null
+          }
+        ]
+      },
+      "gpsInfo": {
+        "gpsSupplier": "6",
+        "increaseFinanceType": null,
+        "basePriceFinanceId": "c499d21a164611e9ad5e00155dd6f107",
+        "basePriceFinanceCode": "F006",
+        "isRequireBasePrice": "055300001",
+        "basePriceType": "052100001",
+        "basePriceGear": [
+          {
+            "name": "1000",
+            "value": "1000"
+          }
+        ],
+        "basePriceMax": null,
+        "basePriceMin": null,
+        "basePriceRatioBase": null,
+        "basePriceRatioValue": null,
+        "basePrice": 1000.00,
+        "increasePriceFinanceId": "c4a1c353164611e9ad5e00155dd6f107",
+        "increasePriceFinanceCode": "F007",
+        "isRequireIncreasePrice": "055300001",
+        "increasePriceType": "052100001",
+        "increasePriceGear": [
+          {
+            "name": "0",
+            "value": "0"
+          },
+          {
+            "name": "500",
+            "value": "500"
+          },
+          {
+            "name": "1000",
+            "value": "1000"
+          },
+          {
+            "name": "1500",
+            "value": "1500"
+          }
+        ],
+        "increasePriceMax": null,
+        "increasePriceMin": null,
+        "increasePriceRatioBase": null,
+        "increasePriceRatioValue": null,
+        "increasePrice": 500.00
+      },
+      "theftInsuranceInfo": {
+        "isFinanceInsurance": "0",
+        "isRequire": null,
+        "increaseFinancePeriod": "",
+        "increasePriceType": "",
+        "basePriceFinanceId": "c4798326164611e9ad5e00155dd6f107",
+        "basePriceFinanceCode": "F012",
+        "isRequireBasePrice": "055300001",
+        "basePrice": null,
+        "increasePriceFinanceId": "c481310e164611e9ad5e00155dd6f107",
+        "increasePriceFinanceCode": "F013",
+        "isRequireIncreasePrice": "055300001",
+        "increasePrice": null,
+        "increaseMaxPrice": null,
+        "increaseMinPrice": null,
+        "totalPrice": null
+      },
+      "otherFinanceInfo": [
+        {
+          "id": "c4a84074164611e9ad5e00155dd6f107",
+          "financeCode": "F008",
+          "financeName": "gps升级方案基础价",
+          "isRequire": "055300001",
+          "financeType": "052100001",
+          "financeGear": [
+            {
+              "name": "450",
+              "value": "450"
+            }
+          ],
+          "financePriceMax": null,
+          "financePriceMin": null,
+          "financePrice": null,
+          "ratioBase": null,
+          "ratioValue": null
+        },
+        {
+          "id": "c4ae3603164611e9ad5e00155dd6f107",
+          "financeCode": "F009",
+          "financeName": "gps升级方案加价",
+          "isRequire": "055300001",
+          "financeType": "052100001",
+          "financeGear": [
+            {
+              "name": "0",
+              "value": "0"
+            },
+            {
+              "name": "500",
+              "value": "500"
+            },
+            {
+              "name": "1000",
+              "value": "1000"
+            },
+            {
+              "name": "1500",
+              "value": "1500"
+            }
+          ],
+          "financePriceMax": null,
+          "financePriceMin": null,
+          "financePrice": null,
+          "ratioBase": null,
+          "ratioValue": null
+        },
+        {
+          "id": "c47d17de164611e9ad5e00155dd6f107",
+          "financeCode": "F002",
+          "financeName": "购置税",
+          "isRequire": "055300001",
+          "financeType": "052100000",
+          "financeGear": [],
+          "financePriceMax": null,
+          "financePriceMin": null,
+          "financePrice": 100.00,
+          "ratioBase": null,
+          "ratioValue": null
+        },
+        {
+          "id": "c487db8a164611e9ad5e00155dd6f107",
+          "financeCode": "F014",
+          "financeName": "延保费",
+          "isRequire": "055300001",
+          "financeType": "052100000",
+          "financeGear": [],
+          "financePriceMax": null,
+          "financePriceMin": null,
+          "financePrice": 100.00,
+          "ratioBase": null,
+          "ratioValue": null
+        },
+        {
+          "id": "c48e0b5c164611e9ad5e00155dd6f107",
+          "financeCode": "F015",
+          "financeName": "上牌工本费",
+          "isRequire": "055300001",
+          "financeType": "052100001",
+          "financeGear": [
+            {
+              "name": "125",
+              "value": "125"
+            }
+          ],
+          "financePriceMax": null,
+          "financePriceMin": null,
+          "financePrice": 125.00,
+          "ratioBase": null,
+          "ratioValue": null
+        },
+        {
+          "id": "c491f7b1164611e9ad5e00155dd6f107",
+          "financeCode": "F005",
+          "financeName": "账户管理费",
+          "isRequire": "055300001",
+          "financeType": "052100000",
+          "financeGear": [],
+          "financePriceMax": null,
+          "financePriceMin": null,
+          "financePrice": 100.00,
+          "ratioBase": null,
+          "ratioValue": null
+        }
+      ],
+      "hasSaved": true
+    },
+    "financeDiscountInfo": {
+      "orderNo": null,
+      "term": "36",
+      "hasRateRule": 1,
+      "hasFeeRule": 0,
+      "feeDiscountInfo": null,
+      "rateDiscountInfo": {
+        "orderNo": "6599999981",
+        "isDiscount": 0,
+        "discountMode": "051400001",
+        "isDealerDiscount": 1,
+        "dealerDiscountAmount": null,
+        "isManufacturerDiscount": 1,
+        "manufacturerDiscountAmount": null,
+        "discountTotalAmount": null,
+        "ratioValue": 5.00,
+        "hasSaved": false
+      },
+      "hasSaved": true
+    },
+    "financeMarginInfo": {
+      "orderNo": "6599999981",
+      "marginType": "054000000",
+      "marginAmount": 10000.00,
+      "marginProportion": 20.00,
+      "marginIsOffset": 1,
+      "ratioBase": null,
+      "hasSaved": null
+    },
+    "financeCalculationInfo": {
+      "id": null,
+      "orderNo": "6599999981",
+      "actualSellingPrice": 50000.00,
+      "downPaymentAmount": 10000.00,
+      "downPaymentProportion": 20.00,
+      "finalPaymentType": "054800000",
+      "finalPaymentAmount": 0.00,
+      "finalPaymentProportion": 0.00,
+      "financeCalculationTableList": [
+        {
+          "capitalCode": "YX",
+          "capitalName": "自营",
+          "custInterestRate": 11.88,
+          "custCostRate": 0.00,
+          "custFinanceAmount": 41925.00,
+          "riskControlFinanceAmount": 31100.00,
+          "riskFinanceAmount": 31925.00,
+          "loanPayableAmount": 41925.00,
+          "custMonthlyAmount": 1410.20
+        },
+        {
+          "capitalCode": "WeBank",
+          "capitalName": "微众",
+          "custInterestRate": 12.19,
+          "custCostRate": 0.00,
+          "custFinanceAmount": 42344.25,
+          "riskControlFinanceAmount": 31100.00,
+          "riskFinanceAmount": 32344.25,
+          "loanPayableAmount": 42344.25,
+          "custMonthlyAmount": 1410.20
+        }
+      ],
+      "hasSaved": true
+    },
+    "hasSaved": true,
+    "completed": true
+  },
+  "errorCode": null,
+  "errorMessage": null,
+  "success": true
+}
