@@ -189,7 +189,7 @@ mogo.takeTask = req => {
     let row = Mock.mock({
         "baseInfo": {
             "orderStatus|1": ["提报", "征信", "核查", "评估DSFASDFASDFASDF", "风险审批风险审批", "确认合同", "请款", "初审", "复审", "保单", "GPS", "首保审核", "付款数据", "提车", "选择放款", "放款审核"],
-            "prodName": "融易享A",
+            "prodName": "@ctitle(5,18)",
             "custName": "@cname",
             "sex|1": ["1", "2"],
             "status|1": [0, 1],
